@@ -1,0 +1,5384 @@
+[
+ {
+  "term": "about",
+  "meaning": "hemen hemen [zf.]",
+  "meaning2": "aşağı yukarı [zf.]",
+  "meaning3": "yaklaşık [zf.]"
+ },
+ {
+  "term": "above",
+  "meaning": "üzerine [zf.]",
+  "meaning2": "yukarısında [zf.]",
+  "meaning3": "yukarıda [zf.]"
+ },
+ {
+  "term": "across",
+  "meaning": "karşıya [zf.]",
+  "meaning2": "(deniz\/okyanus) aşırı [zf.]",
+  "meaning3": "karşı karşıya [zf.]"
+ },
+ {
+  "term": "action",
+  "meaning": "çalışma [i.]",
+  "meaning2": "davranış [i.]",
+  "meaning3": "aksiyon [i.]"
+ },
+ {
+  "term": "activity",
+  "meaning": "etkinlik [i.]",
+  "meaning2": "faaliyet [i.]",
+  "meaning3": "meşguliyet [i.]"
+ },
+ {
+  "term": "actor",
+  "meaning": "oyuncu [i.]",
+  "meaning2": "erkek oyuncu [i.]",
+  "meaning3": "artist [i.]"
+ },
+ {
+  "term": "actress",
+  "meaning": "oyuncu [i.]",
+  "meaning2": "artist [i.]",
+  "meaning3": "aktris [i.]"
+ },
+ {
+  "term": "add",
+  "meaning": "toplamak [f.]",
+  "meaning2": "eklemek [f.]",
+  "meaning3": "ilave etmek [f.]"
+ },
+ {
+  "term": "address",
+  "meaning": "hitap etmek [f.]",
+  "meaning2": "söylev [i.]",
+  "meaning3": "adres [i.]"
+ },
+ {
+  "term": "adult",
+  "meaning": "yetişkin [i.]",
+  "meaning2": "er kişi [i.]",
+  "meaning3": "yetişkin kişi [i.]"
+ },
+ {
+  "term": "advice",
+  "meaning": "nasihat [i.]",
+  "meaning2": "tavsiye [i.]",
+  "meaning3": "öğüt [i.]"
+ },
+ {
+  "term": "afraid",
+  "meaning": "korkmuş [s.]",
+  "meaning2": "korkan [s.]",
+  "meaning3": "ürkmüş [s.]"
+ },
+ {
+  "term": "after",
+  "meaning": "sonra [zf.]",
+  "meaning2": "öğleden sonra [i.]",
+  "meaning3": "sonra gelen [s.]"
+ },
+ {
+  "term": "afternoon",
+  "meaning": "öğleden sonra [i.]",
+  "meaning2": "bir şeyin orta ve son bölümü [i.]",
+  "meaning3": "son kısım [i.]"
+ },
+ {
+  "term": "again",
+  "meaning": "bir daha [zf.]",
+  "meaning2": "daha [zf.]",
+  "meaning3": "tekrar [zf.]"
+ },
+ {
+  "term": "age",
+  "meaning": "yaş [i.]",
+  "meaning2": "çağ [i.]",
+  "meaning3": "devir [i.]"
+ },
+ {
+  "term": "ago",
+  "meaning": "evvel [zf.]",
+  "meaning2": "önce [zf.]",
+  "meaning3": "önce [zf.]"
+ },
+ {
+  "term": "agree",
+  "meaning": "aynı fikirde olmak [f.]",
+  "meaning2": "anlaşmak [f.]",
+  "meaning3": "razı olmak [f.]"
+ },
+ {
+  "term": "air",
+  "meaning": "havalandırmak [f.]",
+  "meaning2": "yayına girmek [f.]",
+  "meaning3": "hava [s.]"
+ },
+ {
+  "term": "airport",
+  "meaning": "havalimanı [i.]",
+  "meaning2": "havaalanı [i.]",
+  "meaning3": "hava limanı [i.]"
+ },
+ {
+  "term": "all",
+  "meaning": "tüm [i.]",
+  "meaning2": "bütün [i.]",
+  "meaning3": "hepsi [zm.]"
+ },
+ {
+  "term": "also",
+  "meaning": "ayrıca [zf.]",
+  "meaning2": "yine [zf.]",
+  "meaning3": "da [zf.]"
+ },
+ {
+  "term": "always",
+  "meaning": "hep [zf.]",
+  "meaning2": "her zaman [zf.]",
+  "meaning3": "daima [zf.]"
+ },
+ {
+  "term": "amazing",
+  "meaning": "şaşırtıcı [s.]",
+  "meaning2": "şaşırtma [i.]",
+  "meaning3": "hayrete düşürücü [s.]"
+ },
+ {
+  "term": "and",
+  "meaning": "ile [bağ.]",
+  "meaning2": "ve [bağ.]",
+  "meaning3": "sonra [zf.]"
+ },
+ {
+  "term": "angry",
+  "meaning": "kızmış [s.]",
+  "meaning2": "sinirli [s.]",
+  "meaning3": "hiddetli [s.]"
+ },
+ {
+  "term": "animal",
+  "meaning": "hayvan [s.]",
+  "meaning2": "hayvan [i.]",
+  "meaning3": "hayvani [s.]"
+ },
+ {
+  "term": "another",
+  "meaning": "öbür [s.]",
+  "meaning2": "başka [zm.]",
+  "meaning3": "ikinci bir [s.]"
+ },
+ {
+  "term": "answer",
+  "meaning": "yanıt vermek [f.]",
+  "meaning2": "cevaplamak [f.]",
+  "meaning3": "cevap vermek [f.]"
+ },
+ {
+  "term": "any",
+  "meaning": "lalettayin [s.]",
+  "meaning2": "bazı [s.]",
+  "meaning3": "her [s.]"
+ },
+ {
+  "term": "anyone",
+  "meaning": "hiç kimse [zm.]",
+  "meaning2": "kimse [zm.]",
+  "meaning3": "herhangi bir kimse [zm.]"
+ },
+ {
+  "term": "anything",
+  "meaning": "hiçbir şey [zm.]",
+  "meaning2": "her şey [zm.]",
+  "meaning3": "bir şey [zm.]"
+ },
+ {
+  "term": "apartment",
+  "meaning": "daire [i.]",
+  "meaning2": "apartman katı [i.]",
+  "meaning3": "apartman dairesi [i.]"
+ },
+ {
+  "term": "apple",
+  "meaning": "elma [i.]",
+  "meaning2": "elma",
+  "meaning3": "null"
+ },
+ {
+  "term": "April",
+  "meaning": "nisan [i.]",
+  "meaning2": "yılın dördüncü ayı [i.]",
+  "meaning3": "nisan ayı [i.]"
+ },
+ {
+  "term": "area",
+  "meaning": "alan [i.]",
+  "meaning2": "saha [i.]",
+  "meaning3": "bölge [i.]"
+ },
+ {
+  "term": "arm",
+  "meaning": "kol [i.]",
+  "meaning2": "sarılmak [f.]",
+  "meaning3": "destek olmak [f.]"
+ },
+ {
+  "term": "around",
+  "meaning": "sularında [zf.]",
+  "meaning2": "çevrede [zf.]",
+  "meaning3": "etrafında [zf.]"
+ },
+ {
+  "term": "arrive",
+  "meaning": "varmak [f.]",
+  "meaning2": "ulaşmak [f.]",
+  "meaning3": "gelip çatmak [f.]"
+ },
+ {
+  "term": "art",
+  "meaning": "sanat [i.]",
+  "meaning2": "beceri [i.]",
+  "meaning3": "maharet [i.]"
+ },
+ {
+  "term": "article",
+  "meaning": "bent [i.]",
+  "meaning2": "madde [i.]",
+  "meaning3": "(sözleşmede) madde [i.]"
+ },
+ {
+  "term": "artist",
+  "meaning": "artist [i.]",
+  "meaning2": "sanatkar [i.]",
+  "meaning3": "sanatçı [i.]"
+ },
+ {
+  "term": "as",
+  "meaning": "olarak [zf.]",
+  "meaning2": "gibi [ed.]",
+  "meaning3": "dahi [zf.]"
+ },
+ {
+  "term": "ask",
+  "meaning": "soru sormak [f.]",
+  "meaning2": "istemek [f.]",
+  "meaning3": "çağırmak [f.]"
+ },
+ {
+  "term": "at",
+  "meaning": "üzere [zf.]",
+  "meaning2": "nezdinde [zf.]",
+  "meaning3": "haliyle [ed.]"
+ },
+ {
+  "term": "August",
+  "meaning": "ağustos [i.]",
+  "meaning2": "yılın sekizinci ayı [i.]",
+  "meaning3": "ağustos ayı [i.]"
+ },
+ {
+  "term": "aunt",
+  "meaning": "hala [i.]",
+  "meaning2": "teyze [i.]",
+  "meaning3": "yenge [i.]"
+ },
+ {
+  "term": "autumn",
+  "meaning": "güz [i.]",
+  "meaning2": "sonbahar [i.]",
+  "meaning3": "hazan [i.]"
+ },
+ {
+  "term": "away",
+  "meaning": "uzak [s.]",
+  "meaning2": "uzağa [zf.]",
+  "meaning3": "uzakta [zf.]"
+ },
+ {
+  "term": "baby",
+  "meaning": "yavru [i.]",
+  "meaning2": "bebek [i.]",
+  "meaning3": "şımartmak [f.]"
+ },
+ {
+  "term": "back",
+  "meaning": "art [i.]",
+  "meaning2": "arkalık [i.]",
+  "meaning3": "sırt [i.]"
+ },
+ {
+  "term": "bad",
+  "meaning": "kötü [s.]",
+  "meaning2": "fena [s.]",
+  "meaning3": "bozuk [s.]"
+ },
+ {
+  "term": "bag",
+  "meaning": "poşet [i.]",
+  "meaning2": "torba [i.]",
+  "meaning3": "çanta [i.]"
+ },
+ {
+  "term": "ball",
+  "meaning": "balo [i.]",
+  "meaning2": "yumak [i.]",
+  "meaning3": "bilye [i.]"
+ },
+ {
+  "term": "banana",
+  "meaning": "muz [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "band",
+  "meaning": "bant [i.]",
+  "meaning2": "bando [i.]",
+  "meaning3": "şerit [i.]"
+ },
+ {
+  "term": "bank",
+  "meaning": "banka [i.]",
+  "meaning2": "önlemek [f.]",
+  "meaning3": "kümelenmek [f.]"
+ },
+ {
+  "term": "bath",
+  "meaning": "yıkanmak [f.]",
+  "meaning2": "banyo [i.]",
+  "meaning3": "banyo yapmak [f.]"
+ },
+ {
+  "term": "bathroom",
+  "meaning": "tuvalet [i.]",
+  "meaning2": "banyo [i.]",
+  "meaning3": "banyo odası [i.]"
+ },
+ {
+  "term": "be",
+  "meaning": "bulunmak [f.]",
+  "meaning2": "olmak [f.]",
+  "meaning3": "var olmak [f.]"
+ },
+ {
+  "term": "beach",
+  "meaning": "sahil [i.]",
+  "meaning2": "kumsal [i.]",
+  "meaning3": "plaj [i.]"
+ },
+ {
+  "term": "beautiful",
+  "meaning": "güzel [s.]",
+  "meaning2": "tatlı [s.]",
+  "meaning3": "ahım şahım [s.]"
+ },
+ {
+  "term": "because",
+  "meaning": "çünkü [bağ.]",
+  "meaning2": "-dığı için [bağ.]",
+  "meaning3": "zira [bağ.]"
+ },
+ {
+  "term": "become",
+  "meaning": "haline gelmek [f.]",
+  "meaning2": "olmak [f.]",
+  "meaning3": "dönüşmek [f.]"
+ },
+ {
+  "term": "bed",
+  "meaning": "yatak [i.]",
+  "meaning2": "gömmek [f.]",
+  "meaning3": "oturtmak [f.]"
+ },
+ {
+  "term": "bedroom",
+  "meaning": "yatak odası [i.]",
+  "meaning2": "yatak odası",
+  "meaning3": "şebistan"
+ },
+ {
+  "term": "beer",
+  "meaning": "bira [i.]",
+  "meaning2": "arpasuyu",
+  "meaning3": "ingiltere'de yerleşim yeri"
+ },
+ {
+  "term": "before",
+  "meaning": "evvel [ed.]",
+  "meaning2": "önce [ed.]",
+  "meaning3": "daha önce [zf.]"
+ },
+ {
+  "term": "begin",
+  "meaning": "başlatmak [f.]",
+  "meaning2": "başlamak [f.]",
+  "meaning3": "began - begun [f.]"
+ },
+ {
+  "term": "beginning",
+  "meaning": "başlangıç [i.]",
+  "meaning2": "baş [s.]",
+  "meaning3": "ilk adım [i.]"
+ },
+ {
+  "term": "behind",
+  "meaning": "ardındaki [s.]",
+  "meaning2": "arkaya [zf.]",
+  "meaning3": "geriye [zf.]"
+ },
+ {
+  "term": "believe",
+  "meaning": "inanmak [f.]",
+  "meaning2": "inanmak [f.]",
+  "meaning3": "kanmak [f.]"
+ },
+ {
+  "term": "below",
+  "meaning": "alttaki [s.]",
+  "meaning2": "aşağıdaki [s.]",
+  "meaning3": "altta [zf.]"
+ },
+ {
+  "term": "best",
+  "meaning": "en iyi [s.]",
+  "meaning2": "geçmek [f.]",
+  "meaning3": "baskın çıkmak [f.]"
+ },
+ {
+  "term": "better",
+  "meaning": "daha iyi [s.]",
+  "meaning2": "iyileştirmek [f.]",
+  "meaning3": "ıslah etmek [f.]"
+ },
+ {
+  "term": "between",
+  "meaning": "arasında [zf.]",
+  "meaning2": "arasına [zf.]",
+  "meaning3": "ortada [zf.]"
+ },
+ {
+  "term": "bicycle",
+  "meaning": "bisiklet [i.]",
+  "meaning2": "bisiklet kullanarak gitmek [f.]",
+  "meaning3": "bisikletle gezmek [f.]"
+ },
+ {
+  "term": "big",
+  "meaning": "iri [s.]",
+  "meaning2": "büyük [s.]",
+  "meaning3": "kapı gibi [s.]"
+ },
+ {
+  "term": "bike",
+  "meaning": "bisiklete binmek [f.]",
+  "meaning2": "bisiklet [i.]",
+  "meaning3": "bisiklet sürmek [f.]"
+ },
+ {
+  "term": "bill",
+  "meaning": "senet [i.]",
+  "meaning2": "fatura [i.]",
+  "meaning3": "ilan etmek [f.]"
+ },
+ {
+  "term": "bird",
+  "meaning": "kuş [i.]",
+  "meaning2": "manita [i.]",
+  "meaning3": "kus [i.]"
+ },
+ {
+  "term": "birthday",
+  "meaning": "yaş günü [i.]",
+  "meaning2": "doğum günü [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "black",
+  "meaning": "siyahi [s.]",
+  "meaning2": "kara [s.]",
+  "meaning3": "siyah [s.]"
+ },
+ {
+  "term": "blog",
+  "meaning": "web günlüğü",
+  "meaning2": "internet günlüğü",
+  "meaning3": "internet kullanıcılarının kendi istedikleri şeyleri yazdıkları ve bunları diğer kullanıcılarla paylaştıkları günlük benzeri platform"
+ },
+ {
+  "term": "blonde",
+  "meaning": "sarışın [s.]",
+  "meaning2": "sarışın kız [i.]",
+  "meaning3": "sarı [i.]"
+ },
+ {
+  "term": "blue",
+  "meaning": "mavi [s.]",
+  "meaning2": "çarçur etmek [f.]",
+  "meaning3": "har vurup harman savurmak [f.]"
+ },
+ {
+  "term": "boat",
+  "meaning": "tekne [i.]",
+  "meaning2": "bot [i.]",
+  "meaning3": "kayık [i.]"
+ },
+ {
+  "term": "body",
+  "meaning": "ceset [i.]",
+  "meaning2": "gövde [i.]",
+  "meaning3": "vücut [i.]"
+ },
+ {
+  "term": "book",
+  "meaning": "ayırtmak [f.]",
+  "meaning2": "kitap [i.]",
+  "meaning3": "deftere işlemek [f.]"
+ },
+ {
+  "term": "boot",
+  "meaning": "bot [i.]",
+  "meaning2": "çizme [i.]",
+  "meaning3": "kovmak [f.]"
+ },
+ {
+  "term": "bored",
+  "meaning": "sıkılmış [s.]",
+  "meaning2": "delinmiş [s.]",
+  "meaning3": "bıkkın [s.]"
+ },
+ {
+  "term": "boring",
+  "meaning": "bıktırıcı [s.]",
+  "meaning2": "bıktıran [s.]",
+  "meaning3": "sıkıcı [s.]"
+ },
+ {
+  "term": "born",
+  "meaning": "doğan [s.]",
+  "meaning2": "doğuştan [s.]",
+  "meaning3": "doğmuş [s.]"
+ },
+ {
+  "term": "both",
+  "meaning": "her ikisi de [s.]",
+  "meaning2": "her iki [s.]",
+  "meaning3": "her ikisi (de) [s.]"
+ },
+ {
+  "term": "bottle",
+  "meaning": "şişe [i.]",
+  "meaning2": "susturmak [f.]",
+  "meaning3": "şişelemek [f.]"
+ },
+ {
+  "term": "box",
+  "meaning": "kutu [i.]",
+  "meaning2": "boks etmek [f.]",
+  "meaning3": "yumruk atmak [f.]"
+ },
+ {
+  "term": "boy",
+  "meaning": "delikanlı [i.]",
+  "meaning2": "erkek çocuk [i.]",
+  "meaning3": "oğlan [i.]"
+ },
+ {
+  "term": "boyfriend",
+  "meaning": "flört [i.]",
+  "meaning2": "sevgili [i.]",
+  "meaning3": "erkek arkadaş [i.]"
+ },
+ {
+  "term": "bread",
+  "meaning": "ekmek [i.]",
+  "meaning2": "pane etmek [f.]",
+  "meaning3": "geçim [i.]"
+ },
+ {
+  "term": "break",
+  "meaning": "kopmak [f.]",
+  "meaning2": "kırmak [f.]",
+  "meaning3": "bozmak [f.]"
+ },
+ {
+  "term": "breakfast",
+  "meaning": "kahvaltı [i.]",
+  "meaning2": "kahvaltı etmek [f.]",
+  "meaning3": "kahvaltı"
+ },
+ {
+  "term": "bring",
+  "meaning": "getirmek [f.]",
+  "meaning2": "brought - brought [f.]",
+  "meaning3": "neden olmak [f.]"
+ },
+ {
+  "term": "brother",
+  "meaning": "kardeş [i.]",
+  "meaning2": "erkek kardeş [i.]",
+  "meaning3": "erkek kardeş [i.]"
+ },
+ {
+  "term": "brown",
+  "meaning": "kahverengi [s.]",
+  "meaning2": "kızarmak [f.]",
+  "meaning3": "karartmak [f.]"
+ },
+ {
+  "term": "build",
+  "meaning": "inşa etmek [f.]",
+  "meaning2": "built - built [f.]",
+  "meaning3": "bina etmek [f.]"
+ },
+ {
+  "term": "building",
+  "meaning": "inşaat [i.]",
+  "meaning2": "bina [i.]",
+  "meaning3": "yapma [i.]"
+ },
+ {
+  "term": "bus",
+  "meaning": "otobüs [i.]",
+  "meaning2": "otobüsle taşımak [f.]",
+  "meaning3": "otobüsle gitmek [f.]"
+ },
+ {
+  "term": "business",
+  "meaning": "işletme [i.]",
+  "meaning2": "iş [i.]",
+  "meaning3": "iş kuruluşu [i.]"
+ },
+ {
+  "term": "busy",
+  "meaning": "işlek [s.]",
+  "meaning2": "meşgul [s.]",
+  "meaning3": "faal [s.]"
+ },
+ {
+  "term": "but",
+  "meaning": "ancak [bağ.]",
+  "meaning2": "fakat [bağ.]",
+  "meaning3": "itiraz [i.]"
+ },
+ {
+  "term": "butter",
+  "meaning": "tereyağı [i.]",
+  "meaning2": "tereyağı sürmek [f.]",
+  "meaning3": "yağ sürmek [f.]"
+ },
+ {
+  "term": "buy",
+  "meaning": "ısmarlamak [f.]",
+  "meaning2": "satın almak [f.]",
+  "meaning3": "almak [f.]"
+ },
+ {
+  "term": "by",
+  "meaning": "geçecek biçimde [zf.]",
+  "meaning2": "yakın [zf.]",
+  "meaning3": "evde [zf.]"
+ },
+ {
+  "term": "bye",
+  "meaning": "ast [i.]",
+  "meaning2": "çiftli yarışan çiftlerden biri [i.]",
+  "meaning3": "hoşçakal [ünl.]"
+ },
+ {
+  "term": "cafe",
+  "meaning": "kafe [i.]",
+  "meaning2": "bar [i.]",
+  "meaning3": "kahve [i.]"
+ },
+ {
+  "term": "cake",
+  "meaning": "kek [i.]",
+  "meaning2": "pasta [i.]",
+  "meaning3": "kabuklaşmak [f.]"
+ },
+ {
+  "term": "call",
+  "meaning": "çağırmak [f.]",
+  "meaning2": "telefon açmak [f.]",
+  "meaning3": "telefon etmek [f.]"
+ },
+ {
+  "term": "camera",
+  "meaning": "fotoğraf makinesi [i.]",
+  "meaning2": "kamera [i.]",
+  "meaning3": "fotograf makinesi [i.]"
+ },
+ {
+  "term": "can",
+  "meaning": "olabilmek [f.]",
+  "meaning2": "kovmak [f.]",
+  "meaning3": "konservelemek [f.]"
+ },
+ {
+  "term": "cannot",
+  "meaning": "edememek [f.]",
+  "meaning2": "yapamamak [f.]",
+  "meaning3": "yetersizlik ya da izin vermemeyi anlatan olumsuz yardımcı fiil [f.]"
+ },
+ {
+  "term": "capital",
+  "meaning": "sermaye [i.]",
+  "meaning2": "başkent [i.]",
+  "meaning3": "kapital [i.]"
+ },
+ {
+  "term": "car",
+  "meaning": "otomobil [i.]",
+  "meaning2": "araba [i.]",
+  "meaning3": "kabin [i.]"
+ },
+ {
+  "term": "card",
+  "meaning": "kart [i.]",
+  "meaning2": "iskambil kağıdı [i.]",
+  "meaning3": "fişlemek [f.]"
+ },
+ {
+  "term": "career",
+  "meaning": "kariyer [i.]",
+  "meaning2": "hız yapmak [f.]",
+  "meaning3": "son hızda gitmek [f.]"
+ },
+ {
+  "term": "carrot",
+  "meaning": "kızıl saç [i.]",
+  "meaning2": "havuç [i.]",
+  "meaning3": "ödül\/teşvik [i.]"
+ },
+ {
+  "term": "carry",
+  "meaning": "taşımak [f.]",
+  "meaning2": "sürüklemek [f.]",
+  "meaning3": "elde etmek [f.]"
+ },
+ {
+  "term": "cat",
+  "meaning": "kedi [i.]",
+  "meaning2": "istifra etmek [f.]",
+  "meaning3": "kusmak [f.]"
+ },
+ {
+  "term": "CD",
+  "meaning": "dış çap",
+  "meaning2": "cd",
+  "meaning3": "compact disk"
+ },
+ {
+  "term": "cent",
+  "meaning": "sent [i.]",
+  "meaning2": "metelik [i.]",
+  "meaning3": "sent amerikan dolarının yüzde biri [i.]"
+ },
+ {
+  "term": "centre",
+  "meaning": "merkez [i.]",
+  "meaning2": "merkezde toplanmak [f.]",
+  "meaning3": "konsantre olmak [f.]"
+ },
+ {
+  "term": "century",
+  "meaning": "asır [i.]",
+  "meaning2": "yüzyıl [i.]",
+  "meaning3": "asır [i.]"
+ },
+ {
+  "term": "chair",
+  "meaning": "koltuk [i.]",
+  "meaning2": "sandalye [i.]",
+  "meaning3": "iskemle [i.]"
+ },
+ {
+  "term": "change",
+  "meaning": "değişmek [f.]",
+  "meaning2": "değiştirmek [f.]",
+  "meaning3": "değişiklik [i.]"
+ },
+ {
+  "term": "chart",
+  "meaning": "çizelge [i.]",
+  "meaning2": "göstermek [f.]",
+  "meaning3": "haritaya almak [f.]"
+ },
+ {
+  "term": "cheap",
+  "meaning": "ucuz [s.]",
+  "meaning2": "ucuzlatmak [f.]",
+  "meaning3": "değersiz [s.]"
+ },
+ {
+  "term": "check",
+  "meaning": "denetlemek [f.]",
+  "meaning2": "kontrol etmek [f.]",
+  "meaning3": "kontrol [i.]"
+ },
+ {
+  "term": "cheese",
+  "meaning": "peynir [i.]",
+  "meaning2": "peynir kalıbı [i.]",
+  "meaning3": "meyve konservesi [i.]"
+ },
+ {
+  "term": "chicken",
+  "meaning": "tavuk [i.]",
+  "meaning2": "piliç [i.]",
+  "meaning3": "korkak davranmak [f.]"
+ },
+ {
+  "term": "child",
+  "meaning": "evlat [i.]",
+  "meaning2": "çocuk [i.]",
+  "meaning3": "ürün [i.]"
+ },
+ {
+  "term": "chocolate",
+  "meaning": "çikolata [i.]",
+  "meaning2": "çikolatalı şekerleme [i.]",
+  "meaning3": "çikolatadan yapılmış [s.]"
+ },
+ {
+  "term": "choose",
+  "meaning": "seçmek [f.]",
+  "meaning2": "chose - chosen [f.]",
+  "meaning3": "ayırmak [f.]"
+ },
+ {
+  "term": "cinema",
+  "meaning": "sinema [i.]",
+  "meaning2": "sinema salonu [i.]",
+  "meaning3": "sinema salonu"
+ },
+ {
+  "term": "city",
+  "meaning": "kent [i.]",
+  "meaning2": "şehir [i.]",
+  "meaning3": "metropol [i.]"
+ },
+ {
+  "term": "class",
+  "meaning": "ders [i.]",
+  "meaning2": "sınıf [i.]",
+  "meaning3": "saymak [f.]"
+ },
+ {
+  "term": "classroom",
+  "meaning": "sınıf [i.]",
+  "meaning2": "dershane [i.]",
+  "meaning3": "derslik [i.]"
+ },
+ {
+  "term": "clean",
+  "meaning": "temizlemek [f.]",
+  "meaning2": "temiz [s.]",
+  "meaning3": "temizlenmek [f.]"
+ },
+ {
+  "term": "climb",
+  "meaning": "tırmanmak [f.]",
+  "meaning2": "tırmanış [i.]",
+  "meaning3": "çıkmak [f.]"
+ },
+ {
+  "term": "clock",
+  "meaning": "saat [i.]",
+  "meaning2": "saat tutmak [f.]",
+  "meaning3": "ölçmek [f.]"
+ },
+ {
+  "term": "close",
+  "meaning": "kapamak [f.]",
+  "meaning2": "kapatmak [f.]",
+  "meaning3": "yakın [s.]"
+ },
+ {
+  "term": "clothes",
+  "meaning": "giysi [i.]",
+  "meaning2": "elbise [i.]",
+  "meaning3": "esvap [i.]"
+ },
+ {
+  "term": "club",
+  "meaning": "kulüp [i.]",
+  "meaning2": "ortakça yatırmak [f.]",
+  "meaning3": "sopa ile dövmek [f.]"
+ },
+ {
+  "term": "coat",
+  "meaning": "kaplamak [f.]",
+  "meaning2": "kaban [i.]",
+  "meaning3": "mont [i.]"
+ },
+ {
+  "term": "coffee",
+  "meaning": "kahve [i.]",
+  "meaning2": "kahvehane [i.]",
+  "meaning3": "kıraathane [i.]"
+ },
+ {
+  "term": "cold",
+  "meaning": "soğukluk [i.]",
+  "meaning2": "soğukkanlı [s.]",
+  "meaning3": "soğuk [s.]"
+ },
+ {
+  "term": "college",
+  "meaning": "yüksekokul [i.]",
+  "meaning2": "kolej [i.]",
+  "meaning3": "üniversite [i.]"
+ },
+ {
+  "term": "colour",
+  "meaning": "renk [i.]",
+  "meaning2": "boya [i.]",
+  "meaning3": "yüzü kızarmak [f.]"
+ },
+ {
+  "term": "come",
+  "meaning": "gelmek [f.]",
+  "meaning2": "came - come [f.]",
+  "meaning3": "gelip dayanmak [f.]"
+ },
+ {
+  "term": "common",
+  "meaning": "alışılmış [s.]",
+  "meaning2": "alelade [s.]",
+  "meaning3": "yaygın [s.]"
+ },
+ {
+  "term": "company",
+  "meaning": "bölük [i.]",
+  "meaning2": "şirket [i.]",
+  "meaning3": "firma [i.]"
+ },
+ {
+  "term": "compare",
+  "meaning": "mukayese etmek [f.]",
+  "meaning2": "kıyaslamak [f.]",
+  "meaning3": "karşılaştırmak [f.]"
+ },
+ {
+  "term": "complete",
+  "meaning": "tamamlamak [f.]",
+  "meaning2": "tam [s.]",
+  "meaning3": "bütün [s.]"
+ },
+ {
+  "term": "computer",
+  "meaning": "bilgisayar [i.]",
+  "meaning2": "kompüter [i.]",
+  "meaning3": "elektronik beyin [i.]"
+ },
+ {
+  "term": "concert",
+  "meaning": "konser [i.]",
+  "meaning2": "anlaşmak [f.]",
+  "meaning3": "birlikte hareket etmek [f.]"
+ },
+ {
+  "term": "conversation",
+  "meaning": "konuşma [i.]",
+  "meaning2": "sohbet [i.]",
+  "meaning3": "muhabbet [i.]"
+ },
+ {
+  "term": "cook",
+  "meaning": "yemek pişirmek [f.]",
+  "meaning2": "pişirmek [f.]",
+  "meaning3": "aşçı [i.]"
+ },
+ {
+  "term": "cooking",
+  "meaning": "yemek pişirme [i.]",
+  "meaning2": "mutfak [i.]",
+  "meaning3": "pişim [i.]"
+ },
+ {
+  "term": "cool",
+  "meaning": "soğutmak [f.]",
+  "meaning2": "serinlik [i.]",
+  "meaning3": "serin [s.]"
+ },
+ {
+  "term": "correct",
+  "meaning": "düzeltmek [f.]",
+  "meaning2": "doğru [s.]",
+  "meaning3": "haddini bildirmek [f.]"
+ },
+ {
+  "term": "cost",
+  "meaning": "mal olmak [f.]",
+  "meaning2": "masraf [i.]",
+  "meaning3": "ücret [i.]"
+ },
+ {
+  "term": "could",
+  "meaning": "-abilirdi [f.]",
+  "meaning2": "-er misin(iz) [f.]",
+  "meaning3": "-ebilirdi [f.]"
+ },
+ {
+  "term": "country",
+  "meaning": "yurt [i.]",
+  "meaning2": "memleket [i.]",
+  "meaning3": "ülke [i.]"
+ },
+ {
+  "term": "course",
+  "meaning": "kurs [i.]",
+  "meaning2": "izlenen yol [i.]",
+  "meaning3": "rota [i.]"
+ },
+ {
+  "term": "cousin",
+  "meaning": "kuzen [i.]",
+  "meaning2": "teyze oğlu\/kızı [i.]",
+  "meaning3": "amca oğlu [i.]"
+ },
+ {
+  "term": "cow",
+  "meaning": "inek [i.]",
+  "meaning2": "korkutmak [f.]",
+  "meaning3": "posta koymak [f.]"
+ },
+ {
+  "term": "cream",
+  "meaning": "kaymak [i.]",
+  "meaning2": "krema [i.]",
+  "meaning3": "krem [i.]"
+ },
+ {
+  "term": "create",
+  "meaning": "meydana getirmek [f.]",
+  "meaning2": "oluşturmak [f.]",
+  "meaning3": "yaratmak [f.]"
+ },
+ {
+  "term": "culture",
+  "meaning": "kültür [i.]",
+  "meaning2": "zevk ve eleştirme yeteneklerinin öğrenim ve yaşantılar yoluyla geliştirilmiş olan biçimi [i.]",
+  "meaning3": "terbiye [i.]"
+ },
+ {
+  "term": "cup",
+  "meaning": "kupa [i.]",
+  "meaning2": "fincan [i.]",
+  "meaning3": "kavramak [f.]"
+ },
+ {
+  "term": "customer",
+  "meaning": "müşteri [i.]",
+  "meaning2": "alıcı [i.]",
+  "meaning3": "tip [i.]"
+ },
+ {
+  "term": "cut",
+  "meaning": "kesmek [f.]",
+  "meaning2": "pay [i.]",
+  "meaning3": "kesik [i.]"
+ },
+ {
+  "term": "dad",
+  "meaning": "babacığım [i.]",
+  "meaning2": "baba [i.]",
+  "meaning3": "babacık [i.]"
+ },
+ {
+  "term": "dance",
+  "meaning": "dans etmek [f.]",
+  "meaning2": "dans [i.]",
+  "meaning3": "sıçramak [f.]"
+ },
+ {
+  "term": "dancer",
+  "meaning": "dansöz [i.]",
+  "meaning2": "dansçı [i.]",
+  "meaning3": "rakkase [i.]"
+ },
+ {
+  "term": "dancing",
+  "meaning": "dans etme [i.]",
+  "meaning2": "dans [s.]",
+  "meaning3": "oynama [i.]"
+ },
+ {
+  "term": "dangerous",
+  "meaning": "tehlikeli [s.]",
+  "meaning2": "çekinceli [s.]",
+  "meaning3": "riskli [s.]"
+ },
+ {
+  "term": "dark",
+  "meaning": "karanlık [i.]",
+  "meaning2": "koyu [s.]",
+  "meaning3": "belirsizlik [i.]"
+ },
+ {
+  "term": "date",
+  "meaning": "(biriyle) çıkmak [f.]",
+  "meaning2": "randevuya çıkmak [f.]",
+  "meaning3": "zaman [i.]"
+ },
+ {
+  "term": "daughter",
+  "meaning": "kız çocuk [i.]",
+  "meaning2": "kız evlat [i.]",
+  "meaning3": "ilişki [i.]"
+ },
+ {
+  "term": "day",
+  "meaning": "gün [i.]",
+  "meaning2": "dönem [i.]",
+  "meaning3": "gündüz [i.]"
+ },
+ {
+  "term": "dear",
+  "meaning": "sevgili [s.]",
+  "meaning2": "canım [ünl.]",
+  "meaning3": "tatlı kimse [i.]"
+ },
+ {
+  "term": "December",
+  "meaning": "aralık (ayı) [f.]",
+  "meaning2": "aralık (ayı) [i.]",
+  "meaning3": "aralık ayı [i.]"
+ },
+ {
+  "term": "decide",
+  "meaning": "karar vermek [f.]",
+  "meaning2": "belirlemek [f.]",
+  "meaning3": "azmetmek [f.]"
+ },
+ {
+  "term": "delicious",
+  "meaning": "nefis [s.]",
+  "meaning2": "leziz [s.]",
+  "meaning3": "lezzetli [s.]"
+ },
+ {
+  "term": "describe",
+  "meaning": "betimlemek [f.]",
+  "meaning2": "tanımlamak [f.]",
+  "meaning3": "tarif etmek [f.]"
+ },
+ {
+  "term": "description",
+  "meaning": "tasvir [i.]",
+  "meaning2": "betimleme [i.]",
+  "meaning3": "tarif [i.]"
+ },
+ {
+  "term": "design",
+  "meaning": "dizayn etmek [f.]",
+  "meaning2": "tasarlamak [f.]",
+  "meaning3": "tasarım [i.]"
+ },
+ {
+  "term": "desk",
+  "meaning": "çalışma masası [i.]",
+  "meaning2": "okul sırası [i.]",
+  "meaning3": "kürsü [i.]"
+ },
+ {
+  "term": "detail",
+  "meaning": "detay [i.]",
+  "meaning2": "ayrıntı [i.]",
+  "meaning3": "ayrıntılı anlatmak [f.]"
+ },
+ {
+  "term": "dialogue",
+  "meaning": "diyalog [i.]",
+  "meaning2": "karşılıklı konuşma [i.]",
+  "meaning3": "konuşma [i.]"
+ },
+ {
+  "term": "dictionary",
+  "meaning": "sözlük [i.]",
+  "meaning2": "ansiklopedik sözlük [i.]",
+  "meaning3": "kamus"
+ },
+ {
+  "term": "die",
+  "meaning": "ölmek [f.]",
+  "meaning2": "çenesi atmak [f.]",
+  "meaning3": "kandilin yağı tükenmek [f.]"
+ },
+ {
+  "term": "diet",
+  "meaning": "diyet [i.]",
+  "meaning2": "perhiz [i.]",
+  "meaning3": "perhiz vermek [f.]"
+ },
+ {
+  "term": "difference",
+  "meaning": "ayrım [i.]",
+  "meaning2": "fark [i.]",
+  "meaning3": "dava [i.]"
+ },
+ {
+  "term": "different",
+  "meaning": "farklı [s.]",
+  "meaning2": "değişik [s.]",
+  "meaning3": "başka [s.]"
+ },
+ {
+  "term": "difficult",
+  "meaning": "çetin [s.]",
+  "meaning2": "zor [s.]",
+  "meaning3": "zorlu [s.]"
+ },
+ {
+  "term": "dinner",
+  "meaning": "akşam yemeği [i.]",
+  "meaning2": "yemek [i.]",
+  "meaning3": "günün esas yemeği [i.]"
+ },
+ {
+  "term": "dirty",
+  "meaning": "pisletmek [f.]",
+  "meaning2": "pis [s.]",
+  "meaning3": "kirli [s.]"
+ },
+ {
+  "term": "discuss",
+  "meaning": "görüşmek [f.]",
+  "meaning2": "tartışmak [f.]",
+  "meaning3": "müzakere etmek [f.]"
+ },
+ {
+  "term": "dish",
+  "meaning": "tabak [i.]",
+  "meaning2": "mahvetmek [f.]",
+  "meaning3": "oymak [f.]"
+ },
+ {
+  "term": "do",
+  "meaning": "etmek [f.]",
+  "meaning2": "yapmak [f.]",
+  "meaning3": "did - done [f.]"
+ },
+ {
+  "term": "doctor",
+  "meaning": "doktor [i.]",
+  "meaning2": "değiştirmek (kötü bir amaçla) [f.]",
+  "meaning3": "tahrif etmek [f.]"
+ },
+ {
+  "term": "dog",
+  "meaning": "it [i.]",
+  "meaning2": "köpek [i.]",
+  "meaning3": "bozulmak [f.]"
+ },
+ {
+  "term": "dollar",
+  "meaning": "amerikan parası [i.]",
+  "meaning2": "dolar [i.]",
+  "meaning3": "dolar"
+ },
+ {
+  "term": "door",
+  "meaning": "kapı [i.]",
+  "meaning2": "kapı [i.]",
+  "meaning3": "eşik [i.]"
+ },
+ {
+  "term": "down",
+  "meaning": "aşağıya doğru [zf.]",
+  "meaning2": "aşağı [ed.]",
+  "meaning3": "alaşağı etmek [f.]"
+ },
+ {
+  "term": "downstairs",
+  "meaning": "aşağı katta [i.]",
+  "meaning2": "altkat [i.]",
+  "meaning3": "alt kat [i.]"
+ },
+ {
+  "term": "draw",
+  "meaning": "karalamak [f.]",
+  "meaning2": "çekmek [f.]",
+  "meaning3": "çizmek [f.]"
+ },
+ {
+  "term": "dress",
+  "meaning": "giyinmek [f.]",
+  "meaning2": "giymek [f.]",
+  "meaning3": "giysi [i.]"
+ },
+ {
+  "term": "drink",
+  "meaning": "içmek [f.]",
+  "meaning2": "içki [i.]",
+  "meaning3": "drank - drunk [f.]"
+ },
+ {
+  "term": "drive",
+  "meaning": "sürmek [f.]",
+  "meaning2": "araba sürmek [f.]",
+  "meaning3": "dürtü [i.]"
+ },
+ {
+  "term": "driver",
+  "meaning": "sürücü [i.]",
+  "meaning2": "şoför [i.]",
+  "meaning3": "makinist [i.]"
+ },
+ {
+  "term": "during",
+  "meaning": "zarfında [zf.]",
+  "meaning2": "süresince [ed.]",
+  "meaning3": "sırasında [ed.]"
+ },
+ {
+  "term": "DVD",
+  "meaning": "dvd [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "each",
+  "meaning": "her biri [zm.]",
+  "meaning2": "herbir [s.]",
+  "meaning3": "beher [s.]"
+ },
+ {
+  "term": "ear",
+  "meaning": "kulak [i.]",
+  "meaning2": "başaklanmak [f.]",
+  "meaning3": "kulak [i.]"
+ },
+ {
+  "term": "early",
+  "meaning": "erken [s.]",
+  "meaning2": "ilkel [s.]",
+  "meaning3": "erken [s.]"
+ },
+ {
+  "term": "east",
+  "meaning": "doğu [i.]",
+  "meaning2": "doğudaki bölüm [i.]",
+  "meaning3": "gündoğusu [i.]"
+ },
+ {
+  "term": "easy",
+  "meaning": "rahat [s.]",
+  "meaning2": "kolay [s.]",
+  "meaning3": "basit [s.]"
+ },
+ {
+  "term": "eat",
+  "meaning": "yemek yemek [f.]",
+  "meaning2": "yemek [f.]",
+  "meaning3": "ate - eaten [f.]"
+ },
+ {
+  "term": "egg",
+  "meaning": "yumurta [i.]",
+  "meaning2": "teşvik etmek [f.]",
+  "meaning3": "tahrik etmek [f.]"
+ },
+ {
+  "term": "eight",
+  "meaning": "sekiz [i.]",
+  "meaning2": "ambar [i.]",
+  "meaning3": "sekiz rakamı (8, VIII) [i.]"
+ },
+ {
+  "term": "eighteen",
+  "meaning": "onsekiz [i.]",
+  "meaning2": "onsekiz sayısı (18, XVIII) [i.]",
+  "meaning3": "on sekiz [i.]"
+ },
+ {
+  "term": "eighty",
+  "meaning": "seksen [i.]",
+  "meaning2": "seksen sayısı (80) [i.]",
+  "meaning3": "80 [i.]"
+ },
+ {
+  "term": "elephant",
+  "meaning": "fil [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "eleven",
+  "meaning": "onbir [i.]",
+  "meaning2": "on bir sayısı (11, XI) [i.]",
+  "meaning3": "on bir [i.]"
+ },
+ {
+  "term": "else",
+  "meaning": "başka [s.]",
+  "meaning2": "başka türlü [s.]",
+  "meaning3": "daha [s.]"
+ },
+ {
+  "term": "email",
+  "meaning": "email göndermek [f.]",
+  "meaning2": "eposta",
+  "meaning3": "elektronik posta"
+ },
+ {
+  "term": "end",
+  "meaning": "sona ermek [f.]",
+  "meaning2": "son vermek [f.]",
+  "meaning3": "son bulmak [f.]"
+ },
+ {
+  "term": "enjoy",
+  "meaning": "tadını çıkarmak [f.]",
+  "meaning2": "zevk almak [f.]",
+  "meaning3": "anlamak [f.]"
+ },
+ {
+  "term": "enough",
+  "meaning": "kafi [s.]",
+  "meaning2": "yeterli [s.]",
+  "meaning3": "yeter [s.]"
+ },
+ {
+  "term": "euro",
+  "meaning": "euro [i.]",
+  "meaning2": "avro [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "even",
+  "meaning": "düzgün [s.]",
+  "meaning2": "düz [s.]",
+  "meaning3": "pürüzsüz [s.]"
+ },
+ {
+  "term": "evening",
+  "meaning": "akşam [s.]",
+  "meaning2": "akşam [i.]",
+  "meaning3": "son evreler [i.]"
+ },
+ {
+  "term": "event",
+  "meaning": "olay [i.]",
+  "meaning2": "aksiyon [i.]",
+  "meaning3": "yarışma [i.]"
+ },
+ {
+  "term": "ever",
+  "meaning": "durmadan [zf.]",
+  "meaning2": "her zaman [zf.]",
+  "meaning3": "daima [zf.]"
+ },
+ {
+  "term": "every",
+  "meaning": "her [s.]",
+  "meaning2": "bütün [s.]",
+  "meaning3": "alışılmış [s.]"
+ },
+ {
+  "term": "everybody",
+  "meaning": "cümle alem [zm.]",
+  "meaning2": "dost düşman [zm.]",
+  "meaning3": "herkes [zm.]"
+ },
+ {
+  "term": "everyone",
+  "meaning": "herkes [zm.]",
+  "meaning2": "herkes [zm.]",
+  "meaning3": "elalem"
+ },
+ {
+  "term": "everything",
+  "meaning": "her şey [zm.]",
+  "meaning2": "her şey [zm.]",
+  "meaning3": "her şey [zm.]"
+ },
+ {
+  "term": "exam",
+  "meaning": "imtihan [i.]",
+  "meaning2": "sınav [i.]",
+  "meaning3": "muayene [i.]"
+ },
+ {
+  "term": "example",
+  "meaning": "örnek [i.]",
+  "meaning2": "ibret [i.]",
+  "meaning3": "numune [i.]"
+ },
+ {
+  "term": "excited",
+  "meaning": "heyecanlı [s.]",
+  "meaning2": "hararetli [s.]",
+  "meaning3": "coşkulu [s.]"
+ },
+ {
+  "term": "exciting",
+  "meaning": "heyecanlı [s.]",
+  "meaning2": "heyecan verici [s.]",
+  "meaning3": "heyecanlandırma [i.]"
+ },
+ {
+  "term": "exercise",
+  "meaning": "alıştırma yapmak [f.]",
+  "meaning2": "egzersiz yapmak [f.]",
+  "meaning3": "egzersiz [i.]"
+ },
+ {
+  "term": "expensive",
+  "meaning": "masraflı [s.]",
+  "meaning2": "pahalı [s.]",
+  "meaning3": "pahalıya mal olan [s.]"
+ },
+ {
+  "term": "explain",
+  "meaning": "açıklamak [f.]",
+  "meaning2": "izah etmek [f.]",
+  "meaning3": "izah etmek [f.]"
+ },
+ {
+  "term": "extra",
+  "meaning": "ekstra [s.]",
+  "meaning2": "ilave gazete [i.]",
+  "meaning3": "ilave [i.]"
+ },
+ {
+  "term": "eye",
+  "meaning": "göz [i.]",
+  "meaning2": "dikkatle bakmak [f.]",
+  "meaning3": "süzmek [f.]"
+ },
+ {
+  "term": "face",
+  "meaning": "yüzleşmek [f.]",
+  "meaning2": "yüz yüze gelmek [f.]",
+  "meaning3": "yönelmek [f.]"
+ },
+ {
+  "term": "fact",
+  "meaning": "vaka [i.]",
+  "meaning2": "gerçek durum [i.]",
+  "meaning3": "vak’a [i.]"
+ },
+ {
+  "term": "fall",
+  "meaning": "inmek [f.]",
+  "meaning2": "düşmek [f.]",
+  "meaning3": "güz [i.]"
+ },
+ {
+  "term": "FALSE",
+  "meaning": "takma [s.]",
+  "meaning2": "düzmece [s.]",
+  "meaning3": "sahte [s.]"
+ },
+ {
+  "term": "family",
+  "meaning": "sülale [i.]",
+  "meaning2": "aile [i.]",
+  "meaning3": "hamile [i.]"
+ },
+ {
+  "term": "famous",
+  "meaning": "ünlü [s.]",
+  "meaning2": "meşhur [s.]",
+  "meaning3": "ünlü [s.]"
+ },
+ {
+  "term": "fantastic",
+  "meaning": "fantastik [s.]",
+  "meaning2": "şahane [s.]",
+  "meaning3": "harika [s.]"
+ },
+ {
+  "term": "far",
+  "meaning": "uzak [s.]",
+  "meaning2": "öteki [s.]",
+  "meaning3": "çok fazla [s.]"
+ },
+ {
+  "term": "farm",
+  "meaning": "çiftlik [i.]",
+  "meaning2": "ekmek [f.]",
+  "meaning3": "ekip biçmek [f.]"
+ },
+ {
+  "term": "farmer",
+  "meaning": "çiftçi [i.]",
+  "meaning2": "çiftlik sahibi [i.]",
+  "meaning3": "rençper [i.]"
+ },
+ {
+  "term": "fast",
+  "meaning": "süratli [s.]",
+  "meaning2": "çabuk [zf.]",
+  "meaning3": "hızlı [zf.]"
+ },
+ {
+  "term": "fat",
+  "meaning": "semirtmek [f.]",
+  "meaning2": "şişmanlatmak [f.]",
+  "meaning3": "yağ [i.]"
+ },
+ {
+  "term": "father",
+  "meaning": "papaz [i.]",
+  "meaning2": "peder [i.]",
+  "meaning3": "baba [i.]"
+ },
+ {
+  "term": "favourite",
+  "meaning": "gözde [i.]",
+  "meaning2": "favori [i.]",
+  "meaning3": "gözde [s.]"
+ },
+ {
+  "term": "February",
+  "meaning": "şubat [i.]",
+  "meaning2": "yılın ikinci ayı [i.]",
+  "meaning3": "gücük ay [i.]"
+ },
+ {
+  "term": "feel",
+  "meaning": "hissetmek [f.]",
+  "meaning2": "felt - felt [f.]",
+  "meaning3": "sezmek [f.]"
+ },
+ {
+  "term": "feeling",
+  "meaning": "his [i.]",
+  "meaning2": "duygu [i.]",
+  "meaning3": "şefkat [i.]"
+ },
+ {
+  "term": "festival",
+  "meaning": "bayram [i.]",
+  "meaning2": "şenlik [i.]",
+  "meaning3": "festival [i.]"
+ },
+ {
+  "term": "few",
+  "meaning": "az [s.]",
+  "meaning2": "birkaç [s.]",
+  "meaning3": "az miktar [s.]"
+ },
+ {
+  "term": "fifteen",
+  "meaning": "onbeş [i.]",
+  "meaning2": "on beş sayısı (15, XV) [i.]",
+  "meaning3": "on beş [i.]"
+ },
+ {
+  "term": "fifth",
+  "meaning": "beşinci [s.]",
+  "meaning2": "beşte bir [s.]",
+  "meaning3": "beşi [s.]"
+ },
+ {
+  "term": "fifty",
+  "meaning": "elli sayısı (50) [i.]",
+  "meaning2": "elli [i.]",
+  "meaning3": "50 [i.]"
+ },
+ {
+  "term": "fill",
+  "meaning": "doldurmak [f.]",
+  "meaning2": "kaplamak [f.]",
+  "meaning3": "şişirmek [f.]"
+ },
+ {
+  "term": "film",
+  "meaning": "film [i.]",
+  "meaning2": "zar vb kaplamak [f.]",
+  "meaning3": "filme almak [f.]"
+ },
+ {
+  "term": "final",
+  "meaning": "final [i.]",
+  "meaning2": "nihai [s.]",
+  "meaning3": "kesin [s.]"
+ },
+ {
+  "term": "find",
+  "meaning": "bulmak [f.]",
+  "meaning2": "found - found [f.]",
+  "meaning3": "rastlamak [f.]"
+ },
+ {
+  "term": "fine",
+  "meaning": "ceza kesmek [f.]",
+  "meaning2": "para cezası [i.]",
+  "meaning3": "hoş [s.]"
+ },
+ {
+  "term": "finish",
+  "meaning": "sona ermek [f.]",
+  "meaning2": "bitirmek [f.]",
+  "meaning3": "bitmek [f.]"
+ },
+ {
+  "term": "fire",
+  "meaning": "ateşlemek [f.]",
+  "meaning2": "kovmak [f.]",
+  "meaning3": "yangın [i.]"
+ },
+ {
+  "term": "first",
+  "meaning": "birinci [s.]",
+  "meaning2": "ilk [s.]",
+  "meaning3": "önce [zf.]"
+ },
+ {
+  "term": "fish",
+  "meaning": "balık [i.]",
+  "meaning2": "balığa çıkmak [f.]",
+  "meaning3": "avlamak [f.]"
+ },
+ {
+  "term": "five",
+  "meaning": "beş [i.]",
+  "meaning2": "beş rakamı (5, V) [i.]",
+  "meaning3": "iskambilde beşli [i.]"
+ },
+ {
+  "term": "flat",
+  "meaning": "düz yüzey [i.]",
+  "meaning2": "daire [i.]",
+  "meaning3": "yassı [s.]"
+ },
+ {
+  "term": "flight",
+  "meaning": "uçuş [i.]",
+  "meaning2": "uçmak [f.]",
+  "meaning3": "yağmur (kurşun, ok vb) [i.]"
+ },
+ {
+  "term": "floor",
+  "meaning": "yeri kaplamak [f.]",
+  "meaning2": "kat [i.]",
+  "meaning3": "yer [i.]"
+ },
+ {
+  "term": "flower",
+  "meaning": "çiçek [i.]",
+  "meaning2": "gelişmek [f.]",
+  "meaning3": "çiçeklenmek [f.]"
+ },
+ {
+  "term": "fly",
+  "meaning": "uçmak [f.]",
+  "meaning2": "sinek [i.]",
+  "meaning3": "flew - flown [f.]"
+ },
+ {
+  "term": "follow",
+  "meaning": "takip etmek [f.]",
+  "meaning2": "izlemek [f.]",
+  "meaning3": "kollamak [f.]"
+ },
+ {
+  "term": "food",
+  "meaning": "besin [i.]",
+  "meaning2": "yiyecek [i.]",
+  "meaning3": "gıda [i.]"
+ },
+ {
+  "term": "foot",
+  "meaning": "ayak [i.]",
+  "meaning2": "hesaplamak [f.]",
+  "meaning3": "çıkarmak [f.]"
+ },
+ {
+  "term": "football",
+  "meaning": "futbol [i.]",
+  "meaning2": "futbol topu [i.]",
+  "meaning3": "amerikan futbolu [i.]"
+ },
+ {
+  "term": "for",
+  "meaning": "için [ed.]",
+  "meaning2": "yönünden [ed.]",
+  "meaning3": "zarfında [ed.]"
+ },
+ {
+  "term": "forget",
+  "meaning": "unutmak [f.]",
+  "meaning2": "forgot - forgotten\/forgot [f.]",
+  "meaning3": "ihmal etmek [f.]"
+ },
+ {
+  "term": "form",
+  "meaning": "biçimlendirmek [f.]",
+  "meaning2": "şekillendirmek [f.]",
+  "meaning3": "oluşturmak [f.]"
+ },
+ {
+  "term": "forty",
+  "meaning": "kırk sayısı (40) [i.]",
+  "meaning2": "kırk [i.]",
+  "meaning3": "40 [i.]"
+ },
+ {
+  "term": "four",
+  "meaning": "dört [i.]",
+  "meaning2": "kare [i.]",
+  "meaning3": "dört rakamı 4 [i.]"
+ },
+ {
+  "term": "fourteen",
+  "meaning": "on dört sayısı [i.]",
+  "meaning2": "XIV [i.]",
+  "meaning3": "on dört [i.]"
+ },
+ {
+  "term": "fourth",
+  "meaning": "dörtte bir [s.]",
+  "meaning2": "dördü [s.]",
+  "meaning3": "dördüncü [s.]"
+ },
+ {
+  "term": "free",
+  "meaning": "bağımsız [s.]",
+  "meaning2": "beleş [s.]",
+  "meaning3": "muaf [s.]"
+ },
+ {
+  "term": "Friday",
+  "meaning": "cuma [i.]",
+  "meaning2": "cuma günü [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "friend",
+  "meaning": "ahbap [i.]",
+  "meaning2": "arkadaş [i.]",
+  "meaning3": "dost [i.]"
+ },
+ {
+  "term": "friendly",
+  "meaning": "arkadaş canlısı [s.]",
+  "meaning2": "arkadaşça [s.]",
+  "meaning3": "cana yakın [s.]"
+ },
+ {
+  "term": "from",
+  "meaning": "itibaren [ed.]",
+  "meaning2": "-den beri [ed.]",
+  "meaning3": "-den [ed.]"
+ },
+ {
+  "term": "front",
+  "meaning": "yönelmek [f.]",
+  "meaning2": "ön [i.]",
+  "meaning3": "cephe [i.]"
+ },
+ {
+  "term": "fruit",
+  "meaning": "meyve vermek [f.]",
+  "meaning2": "meyve [i.]",
+  "meaning3": "meyvelenmek [f.]"
+ },
+ {
+  "term": "full",
+  "meaning": "tok [s.]",
+  "meaning2": "tam [s.]",
+  "meaning3": "dolu [s.]"
+ },
+ {
+  "term": "fun",
+  "meaning": "eğlence [i.]",
+  "meaning2": "eğlenme [i.]",
+  "meaning3": "şaka etmek [f.]"
+ },
+ {
+  "term": "funny",
+  "meaning": "komik [s.]",
+  "meaning2": "gırgır [s.]",
+  "meaning3": "güldürücü [s.]"
+ },
+ {
+  "term": "future",
+  "meaning": "istikbal [i.]",
+  "meaning2": "gelecek [i.]",
+  "meaning3": "gelecek zaman [i.]"
+ },
+ {
+  "term": "game",
+  "meaning": "oyun [i.]",
+  "meaning2": "kumar oynamak [f.]",
+  "meaning3": "maç [i.]"
+ },
+ {
+  "term": "garden",
+  "meaning": "bahçe [i.]",
+  "meaning2": "çiçeklerle uğraşmak [f.]",
+  "meaning3": "bahçede çalışmak [f.]"
+ },
+ {
+  "term": "geography",
+  "meaning": "coğrafya [i.]",
+  "meaning2": "coğrafya",
+  "meaning3": "coğrafya"
+ },
+ {
+  "term": "get",
+  "meaning": "elde etmek [f.]",
+  "meaning2": "almak [f.]",
+  "meaning3": "kazanmak [f.]"
+ },
+ {
+  "term": "girl",
+  "meaning": "kız [i.]",
+  "meaning2": "kız arkadaş [i.]",
+  "meaning3": "kız [i.]"
+ },
+ {
+  "term": "girlfriend",
+  "meaning": "kız arkadaş [i.]",
+  "meaning2": "manita [i.]",
+  "meaning3": "flört [i.]"
+ },
+ {
+  "term": "give",
+  "meaning": "vermek [f.]",
+  "meaning2": "gave - given [f.]",
+  "meaning3": "bahşetmek [f.]"
+ },
+ {
+  "term": "glass",
+  "meaning": "kadeh [i.]",
+  "meaning2": "bardak [i.]",
+  "meaning3": "cam [i.]"
+ },
+ {
+  "term": "go",
+  "meaning": "hareket etmek [f.]",
+  "meaning2": "gitmek [f.]",
+  "meaning3": "went - gone [f.]"
+ },
+ {
+  "term": "good",
+  "meaning": "güzel [s.]",
+  "meaning2": "hayırlı [s.]",
+  "meaning3": "iyi [s.]"
+ },
+ {
+  "term": "goodbye",
+  "meaning": "güle güle [i.]",
+  "meaning2": "hoşçakal [i.]",
+  "meaning3": "elveda [i.]"
+ },
+ {
+  "term": "grandfather",
+  "meaning": "dede [i.]",
+  "meaning2": "büyükbaba [i.]",
+  "meaning3": "cet [i.]"
+ },
+ {
+  "term": "grandmother",
+  "meaning": "babaanne [i.]",
+  "meaning2": "anneanne [i.]",
+  "meaning3": "nine [i.]"
+ },
+ {
+  "term": "grandparent",
+  "meaning": "büyükbaba [i.]",
+  "meaning2": "büyük ebeveyn [i.]",
+  "meaning3": "büyükbaba veya büyükanne [i.]"
+ },
+ {
+  "term": "great",
+  "meaning": "mükemmel [s.]",
+  "meaning2": "müthiş [s.]",
+  "meaning3": "harika [s.]"
+ },
+ {
+  "term": "green",
+  "meaning": "yeşil [s.]",
+  "meaning2": "yeşermek [f.]",
+  "meaning3": "yeşile boyamak [f.]"
+ },
+ {
+  "term": "grey",
+  "meaning": "ağartmak [f.]",
+  "meaning2": "ağarmak [f.]",
+  "meaning3": "gri [i.]"
+ },
+ {
+  "term": "group",
+  "meaning": "grup [i.]",
+  "meaning2": "gruplandırmak [f.]",
+  "meaning3": "toplanmak [f.]"
+ },
+ {
+  "term": "grow",
+  "meaning": "yetişmek [f.]",
+  "meaning2": "büyümek [f.]",
+  "meaning3": "grew - grown [f.]"
+ },
+ {
+  "term": "guess",
+  "meaning": "tahmin etmek [f.]",
+  "meaning2": "tahmin [i.]",
+  "meaning3": "sanmak [f.]"
+ },
+ {
+  "term": "guitar",
+  "meaning": "gitarist [i.]",
+  "meaning2": "kitara [i.]",
+  "meaning3": "gitar [i.]"
+ },
+ {
+  "term": "gym",
+  "meaning": "spor salonu [i.]",
+  "meaning2": "jimnastik [i.]",
+  "meaning3": "beden eğitimi [i.]"
+ },
+ {
+  "term": "hair",
+  "meaning": "tüy [i.]",
+  "meaning2": "kıl [i.]",
+  "meaning3": "saç [i.]"
+ },
+ {
+  "term": "half",
+  "meaning": "yarım [s.]",
+  "meaning2": "yarı [s.]",
+  "meaning3": "devre [i.]"
+ },
+ {
+  "term": "hand",
+  "meaning": "el [i.]",
+  "meaning2": "yakalamak [f.]",
+  "meaning3": "uzatmak [f.]"
+ },
+ {
+  "term": "happen",
+  "meaning": "meydana gelmek [f.]",
+  "meaning2": "olmak [f.]",
+  "meaning3": "başından geçmek [f.]"
+ },
+ {
+  "term": "happy",
+  "meaning": "sevinçli [s.]",
+  "meaning2": "mutlu [s.]",
+  "meaning3": "çakırkeyif [s.]"
+ },
+ {
+  "term": "hard",
+  "meaning": "çetin [s.]",
+  "meaning2": "sert [s.]",
+  "meaning3": "zahmetli [s.]"
+ },
+ {
+  "term": "hat",
+  "meaning": "şapka [i.]",
+  "meaning2": "şapka [i.]",
+  "meaning3": "başlık [i.]"
+ },
+ {
+  "term": "hate",
+  "meaning": "nefret etmek [f.]",
+  "meaning2": "nefret [i.]",
+  "meaning3": "kin beslemek [f.]"
+ },
+ {
+  "term": "have",
+  "meaning": "sahip olmak [f.]",
+  "meaning2": "had - had [f.]",
+  "meaning3": "elinde tutmak [f.]"
+ },
+ {
+  "term": "have to",
+  "meaning": "mecburiyetinde kalmak [f.]",
+  "meaning2": "gerekmek [f.]",
+  "meaning3": "mecbur olmak [f.]"
+ },
+ {
+  "term": "he",
+  "meaning": "eril o [zm.]",
+  "meaning2": "o [zm.]",
+  "meaning3": "kendileri [zm.]"
+ },
+ {
+  "term": "head",
+  "meaning": "kelle [i.]",
+  "meaning2": "kafa [i.]",
+  "meaning3": "baş [i.]"
+ },
+ {
+  "term": "health",
+  "meaning": "sıhhat [i.]",
+  "meaning2": "sağlık [i.]",
+  "meaning3": "afiyet [i.]"
+ },
+ {
+  "term": "healthy",
+  "meaning": "sıhhatli [s.]",
+  "meaning2": "sağlıklı [s.]",
+  "meaning3": "sağlığa yararlı [s.]"
+ },
+ {
+  "term": "hear",
+  "meaning": "duymak [f.]",
+  "meaning2": "işitmek [f.]",
+  "meaning3": "heard - heard [f.]"
+ },
+ {
+  "term": "hello",
+  "meaning": "merhaba [ünl.]",
+  "meaning2": "merhaba [ünl.]",
+  "meaning3": "selam [ünl.]"
+ },
+ {
+  "term": "help",
+  "meaning": "yardım etmek [f.]",
+  "meaning2": "yardım [i.]",
+  "meaning3": "muavenet etmek [f.]"
+ },
+ {
+  "term": "her",
+  "meaning": "ona [zm.]",
+  "meaning2": "dişil onu [zm.]",
+  "meaning3": "ondan [zm.]"
+ },
+ {
+  "term": "here",
+  "meaning": "burada [zf.]",
+  "meaning2": "buraya [zf.]",
+  "meaning3": "burda [zf.]"
+ },
+ {
+  "term": "hey",
+  "meaning": "selam",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "hi",
+  "meaning": "merhaba [ünl.]",
+  "meaning2": "selam [ünl.]",
+  "meaning3": "merhabalar"
+ },
+ {
+  "term": "high",
+  "meaning": "yüksek [s.]",
+  "meaning2": "direnmek [f.]",
+  "meaning3": "öfkelenmek [f.]"
+ },
+ {
+  "term": "him",
+  "meaning": "ona [zm.]",
+  "meaning2": "onu [zm.]",
+  "meaning3": "(erkek) onu [zm.]"
+ },
+ {
+  "term": "his",
+  "meaning": "eril onunki [zm.]",
+  "meaning2": "onun [zm.]",
+  "meaning3": "onunki [zm.]"
+ },
+ {
+  "term": "history",
+  "meaning": "geçmiş [i.]",
+  "meaning2": "tarih [i.]",
+  "meaning3": "kayıtlar [i.]"
+ },
+ {
+  "term": "hobby",
+  "meaning": "hobi [i.]",
+  "meaning2": "şahin [i.]",
+  "meaning3": "merak [i.]"
+ },
+ {
+  "term": "holiday",
+  "meaning": "bayram [i.]",
+  "meaning2": "tatil [i.]",
+  "meaning3": "tatil yapmak [f.]"
+ },
+ {
+  "term": "home",
+  "meaning": "ev [i.]",
+  "meaning2": "yerleştirmek [f.]",
+  "meaning3": "yuvasına dönmek [f.]"
+ },
+ {
+  "term": "homework",
+  "meaning": "ödev [i.]",
+  "meaning2": "ev ödevi [i.]",
+  "meaning3": "ödev [i.]"
+ },
+ {
+  "term": "hope",
+  "meaning": "ummak [f.]",
+  "meaning2": "umut etmek [f.]",
+  "meaning3": "ümit etmek [f.]"
+ },
+ {
+  "term": "horse",
+  "meaning": "beygir [i.]",
+  "meaning2": "at [i.]",
+  "meaning3": "oynamak [f.]"
+ },
+ {
+  "term": "hospital",
+  "meaning": "hastane [i.]",
+  "meaning2": "darüşşifa [i.]",
+  "meaning3": "darülaceze [i.]"
+ },
+ {
+  "term": "hot",
+  "meaning": "kızgın [s.]",
+  "meaning2": "ateşli [s.]",
+  "meaning3": "acı [s.]"
+ },
+ {
+  "term": "hotel",
+  "meaning": "otel [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "hour",
+  "meaning": "saat [i.]",
+  "meaning2": "vakit [i.]",
+  "meaning3": "zaman [i.]"
+ },
+ {
+  "term": "house",
+  "meaning": "ev [i.]",
+  "meaning2": "konut [i.]",
+  "meaning3": "kendi evine almak [f.]"
+ },
+ {
+  "term": "how",
+  "meaning": "nasıl [zf.]",
+  "meaning2": "yapma yöntemi [i.]",
+  "meaning3": "yapma tarzı [i.]"
+ },
+ {
+  "term": "however",
+  "meaning": "bununla birlikte [zf.]",
+  "meaning2": "yine de [bağ.]",
+  "meaning3": "her nasılsa [zf.]"
+ },
+ {
+  "term": "hundred",
+  "meaning": "yüz [s.]",
+  "meaning2": "yüzlük [i.]",
+  "meaning3": "yüz sayısı, 100 [i.]"
+ },
+ {
+  "term": "hungry",
+  "meaning": "acıkmış [s.]",
+  "meaning2": "aç [s.]",
+  "meaning3": "istekli [s.]"
+ },
+ {
+  "term": "husband",
+  "meaning": "koca [i.]",
+  "meaning2": "eş [i.]",
+  "meaning3": "idareli kullanmak [f.]"
+ },
+ {
+  "term": "I",
+  "meaning": "ben [zm.]",
+  "meaning2": "ingiliz alfabesinin dokuzuncu harfi [i.]",
+  "meaning3": "romen rakamları dizisinde 1 sayısı [i.]"
+ },
+ {
+  "term": "Internet",
+  "meaning": "internet [i.]",
+  "meaning2": "ağlararası ağ",
+  "meaning3": "sanaldalyan"
+ },
+ {
+  "term": "ice",
+  "meaning": "buz [i.]",
+  "meaning2": "öldürmek [f.]",
+  "meaning3": "buzda soğutmak [f.]"
+ },
+ {
+  "term": "ice cream",
+  "meaning": "dondurma [i.]",
+  "meaning2": "dondurma",
+  "meaning3": "null"
+ },
+ {
+  "term": "idea",
+  "meaning": "fikir [i.]",
+  "meaning2": "düşünce [i.]",
+  "meaning3": "sanı [i.]"
+ },
+ {
+  "term": "if",
+  "meaning": "eğer [bağ.]",
+  "meaning2": "belirsizlik [i.]",
+  "meaning3": "şart [i.]"
+ },
+ {
+  "term": "imagine",
+  "meaning": "hayal etmek [f.]",
+  "meaning2": "sanmak [f.]",
+  "meaning3": "kafasında canlandırmak [f.]"
+ },
+ {
+  "term": "important",
+  "meaning": "mühim [s.]",
+  "meaning2": "önemli [s.]",
+  "meaning3": "gururlu [s.]"
+ },
+ {
+  "term": "improve",
+  "meaning": "geliştirmek [f.]",
+  "meaning2": "gelişmek [f.]",
+  "meaning3": "ilerletmek [f.]"
+ },
+ {
+  "term": "in",
+  "meaning": "içeri [zf.]",
+  "meaning2": "içinde [ed.]",
+  "meaning3": "iç [i.]"
+ },
+ {
+  "term": "include",
+  "meaning": "katmak [f.]",
+  "meaning2": "içermek [f.]",
+  "meaning3": "kapsamak [f.]"
+ },
+ {
+  "term": "information",
+  "meaning": "bilgi [i.]",
+  "meaning2": "ilmi vukuf [i.]",
+  "meaning3": "iddia [i.]"
+ },
+ {
+  "term": "interest",
+  "meaning": "ilgilendirmek [f.]",
+  "meaning2": "çıkar [i.]",
+  "meaning3": "faiz [i.]"
+ },
+ {
+  "term": "interested",
+  "meaning": "alakalı [s.]",
+  "meaning2": "ilgili [s.]",
+  "meaning3": "hissedar [i.]"
+ },
+ {
+  "term": "interesting",
+  "meaning": "ilginç [s.]",
+  "meaning2": "ilgi çekici [s.]",
+  "meaning3": "ilgilenme [i.]"
+ },
+ {
+  "term": "interview",
+  "meaning": "görüşmek [f.]",
+  "meaning2": "görüşme [i.]",
+  "meaning3": "mülakat [i.]"
+ },
+ {
+  "term": "into",
+  "meaning": "içine [ed.]",
+  "meaning2": "şekline [ed.]",
+  "meaning3": "biçimine [ed.]"
+ },
+ {
+  "term": "introduce",
+  "meaning": "tanıtmak [f.]",
+  "meaning2": "tanıştırmak [f.]",
+  "meaning3": "içeri sokmak [f.]"
+ },
+ {
+  "term": "island",
+  "meaning": "ada [i.]",
+  "meaning2": "adacık [i.]",
+  "meaning3": "ada [i.]"
+ },
+ {
+  "term": "it",
+  "meaning": "ona [zm.]",
+  "meaning2": "ilişki [i.]",
+  "meaning3": "ebe (oyunlarda) [i.]"
+ },
+ {
+  "term": "its",
+  "meaning": "onun [zm.]",
+  "meaning2": "-in [zm.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "jacket",
+  "meaning": "ceket [i.]",
+  "meaning2": "kaplamak [f.]",
+  "meaning3": "zarf [i.]"
+ },
+ {
+  "term": "January",
+  "meaning": "ocak [i.]",
+  "meaning2": "ocak (ay) [i.]",
+  "meaning3": "ocak ayı [i.]"
+ },
+ {
+  "term": "jeans",
+  "meaning": "kot [i.]",
+  "meaning2": "kot pantolon [i.]",
+  "meaning3": "blucin [i.]"
+ },
+ {
+  "term": "job",
+  "meaning": "görev [i.]",
+  "meaning2": "iş [i.]",
+  "meaning3": "kiraya vermek [f.]"
+ },
+ {
+  "term": "join",
+  "meaning": "birleştirmek [f.]",
+  "meaning2": "katılmak [f.]",
+  "meaning3": "katmak [f.]"
+ },
+ {
+  "term": "journey",
+  "meaning": "yolculuk [i.]",
+  "meaning2": "seyahat [i.]",
+  "meaning3": "yolculuk etmek [f.]"
+ },
+ {
+  "term": "juice",
+  "meaning": "meyve suyu [i.]",
+  "meaning2": "özsu [i.]",
+  "meaning3": "benzin [i.]"
+ },
+ {
+  "term": "July",
+  "meaning": "temmuz [i.]",
+  "meaning2": "yılın yedinci ayı [i.]",
+  "meaning3": "temmuz ayı [i.]"
+ },
+ {
+  "term": "June",
+  "meaning": "haziran [i.]",
+  "meaning2": "yılın altıncı ayı [i.]",
+  "meaning3": "haziran ayı [i.]"
+ },
+ {
+  "term": "just",
+  "meaning": "sadece [s.]",
+  "meaning2": "adil [s.]",
+  "meaning3": "yalnızca [zf.]"
+ },
+ {
+  "term": "keep",
+  "meaning": "tutmak [f.]",
+  "meaning2": "saklamak [f.]",
+  "meaning3": "kept - kept [f.]"
+ },
+ {
+  "term": "key",
+  "meaning": "anahtar [i.]",
+  "meaning2": "tuş [i.]",
+  "meaning3": "girmek bilgisayar [f.]"
+ },
+ {
+  "term": "kilometre",
+  "meaning": "kilometre [i.]",
+  "meaning2": "kilometre (simgesi km)",
+  "meaning3": "bin metre"
+ },
+ {
+  "term": "kind",
+  "meaning": "tür [i.]",
+  "meaning2": "çeşit [i.]",
+  "meaning3": "cins [i.]"
+ },
+ {
+  "term": "kitchen",
+  "meaning": "mutfak [i.]",
+  "meaning2": "kuzine [i.]",
+  "meaning3": "nevale [i.]"
+ },
+ {
+  "term": "know",
+  "meaning": "bilmek [f.]",
+  "meaning2": "tanımak [f.]",
+  "meaning3": "knew - known [f.]"
+ },
+ {
+  "term": "land",
+  "meaning": "karaya ayak basmak [f.]",
+  "meaning2": "kıyıya çıkmak [f.]",
+  "meaning3": "karaya çıkmak [f.]"
+ },
+ {
+  "term": "language",
+  "meaning": "lisan [i.]",
+  "meaning2": "dil [i.]",
+  "meaning3": "edebiyat [i.]"
+ },
+ {
+  "term": "large",
+  "meaning": "iri [s.]",
+  "meaning2": "geniş [s.]",
+  "meaning3": "büyük [s.]"
+ },
+ {
+  "term": "last",
+  "meaning": "sonuncu [s.]",
+  "meaning2": "son [s.]",
+  "meaning3": "tutunmak [f.]"
+ },
+ {
+  "term": "late",
+  "meaning": "gecikmiş [s.]",
+  "meaning2": "geç [zf.]",
+  "meaning3": "her zamanki [s.]"
+ },
+ {
+  "term": "later",
+  "meaning": "sonradan [zf.]",
+  "meaning2": "sonra [zf.]",
+  "meaning3": "sonraki [zf.]"
+ },
+ {
+  "term": "laugh",
+  "meaning": "gülmek [f.]",
+  "meaning2": "gülme [i.]",
+  "meaning3": "gülüş [i.]"
+ },
+ {
+  "term": "learn",
+  "meaning": "öğrenmek [f.]",
+  "meaning2": "learned\/learnt - learned\/learnt [f.]",
+  "meaning3": "işitmek [f.]"
+ },
+ {
+  "term": "leave",
+  "meaning": "bırakmak [f.]",
+  "meaning2": "ayrılmak [f.]",
+  "meaning3": "terk etmek [f.]"
+ },
+ {
+  "term": "left",
+  "meaning": "sol [s.]",
+  "meaning2": "kalmak [f.]",
+  "meaning3": "sol kanat [i.]"
+ },
+ {
+  "term": "leg",
+  "meaning": "ayak (mobilya\/pergel) [i.]",
+  "meaning2": "bacak [i.]",
+  "meaning3": "koşmak [f.]"
+ },
+ {
+  "term": "lesson",
+  "meaning": "ders [i.]",
+  "meaning2": "azar [i.]",
+  "meaning3": "hisse [i.]"
+ },
+ {
+  "term": "let",
+  "meaning": "izin vermek [f.]",
+  "meaning2": "let - let [f.]",
+  "meaning3": "vermek [f.]"
+ },
+ {
+  "term": "letter",
+  "meaning": "mektup [i.]",
+  "meaning2": "harf [i.]",
+  "meaning3": "basmak [f.]"
+ },
+ {
+  "term": "library",
+  "meaning": "kitaplık [i.]",
+  "meaning2": "kütüphane [i.]",
+  "meaning3": "kütüphane binası [i.]"
+ },
+ {
+  "term": "lie",
+  "meaning": "yatmak [f.]",
+  "meaning2": "uzanmak [f.]",
+  "meaning3": "yalan söylemek [f.]"
+ },
+ {
+  "term": "life",
+  "meaning": "yaşam [i.]",
+  "meaning2": "hayat [i.]",
+  "meaning3": "can [i.]"
+ },
+ {
+  "term": "light",
+  "meaning": "aydınlık [i.]",
+  "meaning2": "nur [i.]",
+  "meaning3": "ışık [i.]"
+ },
+ {
+  "term": "like",
+  "meaning": "beğenmek [f.]",
+  "meaning2": "hoşlanmak [f.]",
+  "meaning3": "sevmek [f.]"
+ },
+ {
+  "term": "line",
+  "meaning": "astarlamak [f.]",
+  "meaning2": "satır [i.]",
+  "meaning3": "hat [i.]"
+ },
+ {
+  "term": "lion",
+  "meaning": "aslan [i.]",
+  "meaning2": "arslan [i.]",
+  "meaning3": "başarılı ve aranan kimse [i.]"
+ },
+ {
+  "term": "list",
+  "meaning": "listelemek [f.]",
+  "meaning2": "liste [i.]",
+  "meaning3": "kaydetmek [f.]"
+ },
+ {
+  "term": "listen",
+  "meaning": "dinlemek [f.]",
+  "meaning2": "kulak asmak [f.]",
+  "meaning3": "dinlenmek"
+ },
+ {
+  "term": "little",
+  "meaning": "ufak [s.]",
+  "meaning2": "az [s.]",
+  "meaning3": "küçük [s.]"
+ },
+ {
+  "term": "live",
+  "meaning": "yaşamak [f.]",
+  "meaning2": "naklen [zf.]",
+  "meaning3": "ikamet etmek [f.]"
+ },
+ {
+  "term": "local",
+  "meaning": "lokal [s.]",
+  "meaning2": "yerel [s.]",
+  "meaning3": "yerli [s.]"
+ },
+ {
+  "term": "long",
+  "meaning": "uzun [s.]",
+  "meaning2": "hasretini çekmek [f.]",
+  "meaning3": "susamak [f.]"
+ },
+ {
+  "term": "look",
+  "meaning": "bakmak [f.]",
+  "meaning2": "görünüş [i.]",
+  "meaning3": "bakış [i.]"
+ },
+ {
+  "term": "lose",
+  "meaning": "kaybetmek [f.]",
+  "meaning2": "yitirmek [f.]",
+  "meaning3": "lost - lost [f.]"
+ },
+ {
+  "term": "lot",
+  "meaning": "pay [i.]",
+  "meaning2": "bölüştürmek [f.]",
+  "meaning3": "taksim etmek [f.]"
+ },
+ {
+  "term": "love",
+  "meaning": "sevmek [f.]",
+  "meaning2": "sevda [i.]",
+  "meaning3": "aşk [i.]"
+ },
+ {
+  "term": "lunch",
+  "meaning": "öğle yemeği [i.]",
+  "meaning2": "öğle yemeği yemek [f.]",
+  "meaning3": "tümsek [i.]"
+ },
+ {
+  "term": "machine",
+  "meaning": "makine [i.]",
+  "meaning2": "makine ile yapmak veya şekil vermek [f.]",
+  "meaning3": "makine ile yapmak [f.]"
+ },
+ {
+  "term": "magazine",
+  "meaning": "fişek haznesi [i.]",
+  "meaning2": "dergi [i.]",
+  "meaning3": "mecmua [i.]"
+ },
+ {
+  "term": "main",
+  "meaning": "esas [i.]",
+  "meaning2": "ana [s.]",
+  "meaning3": "baş [s.]"
+ },
+ {
+  "term": "make",
+  "meaning": "yapmak [f.]",
+  "meaning2": "made - made [f.]",
+  "meaning3": "katetmek [f.]"
+ },
+ {
+  "term": "man",
+  "meaning": "insan [i.]",
+  "meaning2": "adam [i.]",
+  "meaning3": "erkek [i.]"
+ },
+ {
+  "term": "many",
+  "meaning": "birçok [s.]",
+  "meaning2": "çok [zf.]",
+  "meaning3": "çoğu [i.]"
+ },
+ {
+  "term": "map",
+  "meaning": "harita [i.]",
+  "meaning2": "planlamak [f.]",
+  "meaning3": "saptamak [f.]"
+ },
+ {
+  "term": "March",
+  "meaning": "yürüyüş yapmak (topluca) [f.]",
+  "meaning2": "yürüyüş (topluca) [i.]",
+  "meaning3": "mart ayı [i.]"
+ },
+ {
+  "term": "market",
+  "meaning": "çarşı [i.]",
+  "meaning2": "pazar [i.]",
+  "meaning3": "piyasa [i.]"
+ },
+ {
+  "term": "married",
+  "meaning": "evli [s.]",
+  "meaning2": "evliliğe\/evlilere özgü [s.]",
+  "meaning3": "başı bağlı [s.]"
+ },
+ {
+  "term": "match",
+  "meaning": "eşleştirmek [f.]",
+  "meaning2": "eşlemek [f.]",
+  "meaning3": "eş [i.]"
+ },
+ {
+  "term": "May",
+  "meaning": "mayıs ayı [i.]",
+  "meaning2": "mayıs [i.]",
+  "meaning3": "mümkün olmak [f.]"
+ },
+ {
+  "term": "maybe",
+  "meaning": "belki [ünl.]",
+  "meaning2": "belki [zf.]",
+  "meaning3": "belki de [bağ.]"
+ },
+ {
+  "term": "me",
+  "meaning": "ben [zm.]",
+  "meaning2": "mi [i.]",
+  "meaning3": "beni [zm.]"
+ },
+ {
+  "term": "meal",
+  "meaning": "öğün [i.]",
+  "meaning2": "yemek [i.]",
+  "meaning3": "sofra [i.]"
+ },
+ {
+  "term": "mean",
+  "meaning": "demek istemek [f.]",
+  "meaning2": "kastetmek [f.]",
+  "meaning3": "anlamına gelmek [f.]"
+ },
+ {
+  "term": "meaning",
+  "meaning": "mana [i.]",
+  "meaning2": "meal [i.]",
+  "meaning3": "anlam [s.]"
+ },
+ {
+  "term": "meat",
+  "meaning": "et [i.]",
+  "meaning2": "yenecek et [i.]",
+  "meaning3": "öz [i.]"
+ },
+ {
+  "term": "meet",
+  "meaning": "karşılaşmak [f.]",
+  "meaning2": "buluşmak [f.]",
+  "meaning3": "görüşme yapmak [f.]"
+ },
+ {
+  "term": "meeting",
+  "meaning": "toplantı [i.]",
+  "meaning2": "buluşma [i.]",
+  "meaning3": "miting [i.]"
+ },
+ {
+  "term": "member",
+  "meaning": "üye [i.]",
+  "meaning2": "organ [i.]",
+  "meaning3": "mensup [i.]"
+ },
+ {
+  "term": "menu",
+  "meaning": "menü [i.]",
+  "meaning2": "mönü [i.]",
+  "meaning3": "bir restoranda mevcut yiyecek ve içeceklerin listesi [i.]"
+ },
+ {
+  "term": "message",
+  "meaning": "ileti [i.]",
+  "meaning2": "mesaj [i.]",
+  "meaning3": "resmi bildiri [i.]"
+ },
+ {
+  "term": "metre",
+  "meaning": "metre [i.]",
+  "meaning2": "saat ile ölçmek [f.]",
+  "meaning3": "vezin [i.]"
+ },
+ {
+  "term": "midnight",
+  "meaning": "geceyarısı [i.]",
+  "meaning2": "gece yarısı [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "mile",
+  "meaning": "mil [i.]",
+  "meaning2": "mil uzaklık ölçü birimi 1609 m [i.]",
+  "meaning3": "mil"
+ },
+ {
+  "term": "milk",
+  "meaning": "süt [i.]",
+  "meaning2": "süt vermek (inek) [f.]",
+  "meaning3": "faydalanmak [f.]"
+ },
+ {
+  "term": "million",
+  "meaning": "milyon [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "minute",
+  "meaning": "dakika [i.]",
+  "meaning2": "zabıt tutmak [f.]",
+  "meaning3": "tutanak tutmak [f.]"
+ },
+ {
+  "term": "miss",
+  "meaning": "ıska geçmek [f.]",
+  "meaning2": "özlemek [f.]",
+  "meaning3": "kaçırmak [f.]"
+ },
+ {
+  "term": "mistake",
+  "meaning": "yanılgı [i.]",
+  "meaning2": "hata [i.]",
+  "meaning3": "yanlış [i.]"
+ },
+ {
+  "term": "model",
+  "meaning": "model [i.]",
+  "meaning2": "manken [i.]",
+  "meaning3": "modellik etmek [f.]"
+ },
+ {
+  "term": "modern",
+  "meaning": "çağdaş [s.]",
+  "meaning2": "modern [s.]",
+  "meaning3": "modern kimse [i.]"
+ },
+ {
+  "term": "moment",
+  "meaning": "an [i.]",
+  "meaning2": "önem [i.]",
+  "meaning3": "cevher [i.]"
+ },
+ {
+  "term": "Monday",
+  "meaning": "pazartesi [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "money",
+  "meaning": "para [i.]",
+  "meaning2": "para kırmak [f.]",
+  "meaning3": "patpat [i.]"
+ },
+ {
+  "term": "month",
+  "meaning": "ay [i.]",
+  "meaning2": "ay [i.]",
+  "meaning3": "yılın on iki bölümünden her biri"
+ },
+ {
+  "term": "more",
+  "meaning": "daha fazla [s.]",
+  "meaning2": "daha [zf.]",
+  "meaning3": "fazla şey [i.]"
+ },
+ {
+  "term": "morning",
+  "meaning": "sabah [s.]",
+  "meaning2": "sabah vakti [i.]",
+  "meaning3": "başlama [i.]"
+ },
+ {
+  "term": "most",
+  "meaning": "en [s.]",
+  "meaning2": "en çok [s.]",
+  "meaning3": "en fazlası [i.]"
+ },
+ {
+  "term": "mother",
+  "meaning": "ana [i.]",
+  "meaning2": "anne [i.]",
+  "meaning3": "anne gibi davranmak [f.]"
+ },
+ {
+  "term": "mountain",
+  "meaning": "dağ [i.]",
+  "meaning2": "yığın [i.]",
+  "meaning3": "cebel [i.]"
+ },
+ {
+  "term": "mouse",
+  "meaning": "fare [i.]",
+  "meaning2": "fare avlamak [f.]",
+  "meaning3": "fare tutmak [f.]"
+ },
+ {
+  "term": "mouth",
+  "meaning": "ağız [i.]",
+  "meaning2": "tane tane söylemek [f.]",
+  "meaning3": "dudaklarını oynatarak konuşur gibi yapmak [f.]"
+ },
+ {
+  "term": "move",
+  "meaning": "kımıldamak [f.]",
+  "meaning2": "kıpırdamak [f.]",
+  "meaning3": "hareket etmek [f.]"
+ },
+ {
+  "term": "movie",
+  "meaning": "film (sinemada gösterilen) [i.]",
+  "meaning2": "sinema [i.]",
+  "meaning3": "film [i.]"
+ },
+ {
+  "term": "much",
+  "meaning": "fazla [s.]",
+  "meaning2": "çok [zf.]",
+  "meaning3": "çok şey [i.]"
+ },
+ {
+  "term": "mum",
+  "meaning": "maske ile oynamak [f.]",
+  "meaning2": "kasımpatı [i.]",
+  "meaning3": "hanımefendi [i.]"
+ },
+ {
+  "term": "museum",
+  "meaning": "müze [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "music",
+  "meaning": "müzik [i.]",
+  "meaning2": "ahenk [i.]",
+  "meaning3": "nağme [i.]"
+ },
+ {
+  "term": "must",
+  "meaning": "gerekmek [f.]",
+  "meaning2": "-malı [f.]",
+  "meaning3": "-meli [f.]"
+ },
+ {
+  "term": "my",
+  "meaning": "benim [zm.]",
+  "meaning2": "bana ait [ünl.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "name",
+  "meaning": "isim [i.]",
+  "meaning2": "ad [i.]",
+  "meaning3": "ismiyle çağırmak [f.]"
+ },
+ {
+  "term": "natural",
+  "meaning": "tabii [s.]",
+  "meaning2": "doğuştan [s.]",
+  "meaning3": "natürel [s.]"
+ },
+ {
+  "term": "near",
+  "meaning": "yakın [zf.]",
+  "meaning2": "yakınlaşmak [f.]",
+  "meaning3": "yaklaşmak [f.]"
+ },
+ {
+  "term": "need",
+  "meaning": "ihtiyaç duymak [f.]",
+  "meaning2": "gerek [i.]",
+  "meaning3": "gereksinim [i.]"
+ },
+ {
+  "term": "negative",
+  "meaning": "negatif [s.]",
+  "meaning2": "olumsuz [s.]",
+  "meaning3": "etkisiz hale getirmek [f.]"
+ },
+ {
+  "term": "neighbour",
+  "meaning": "komşu [i.]",
+  "meaning2": "komşu olmak [f.]",
+  "meaning3": "yaklaşmak [f.]"
+ },
+ {
+  "term": "never",
+  "meaning": "hiç [zf.]",
+  "meaning2": "asla [ünl.]",
+  "meaning3": "katiyen [zf.]"
+ },
+ {
+  "term": "new",
+  "meaning": "yeni [s.]",
+  "meaning2": "keşfedilmemiş [s.]",
+  "meaning3": "değişik [s.]"
+ },
+ {
+  "term": "news",
+  "meaning": "haber [i.]",
+  "meaning2": "havadis [i.]",
+  "meaning3": "bilgi [i.]"
+ },
+ {
+  "term": "newspaper",
+  "meaning": "gazete [i.]",
+  "meaning2": "gazete",
+  "meaning3": "gazete"
+ },
+ {
+  "term": "next",
+  "meaning": "sonraki [ed.]",
+  "meaning2": "bundan sonraki [s.]",
+  "meaning3": "en bitişik [s.]"
+ },
+ {
+  "term": "next to",
+  "meaning": "bitişik [s.]",
+  "meaning2": "yanında [zf.]",
+  "meaning3": "hemen yanındaki [ed.]"
+ },
+ {
+  "term": "nice",
+  "meaning": "sevimli [s.]",
+  "meaning2": "güzel [s.]",
+  "meaning3": "hoş [s.]"
+ },
+ {
+  "term": "night",
+  "meaning": "gece [s.]",
+  "meaning2": "tün [i.]",
+  "meaning3": "karanlık [i.]"
+ },
+ {
+  "term": "nine",
+  "meaning": "dokuz [i.]",
+  "meaning2": "dokuzu [i.]",
+  "meaning3": "9 [i.]"
+ },
+ {
+  "term": "nineteen",
+  "meaning": "XIX [i.]",
+  "meaning2": "on dokuz [i.]",
+  "meaning3": "on dokuz sayısı [i.]"
+ },
+ {
+  "term": "ninety",
+  "meaning": "doksan sayısı (90) [i.]",
+  "meaning2": "doksan [i.]",
+  "meaning3": "90 [i.]"
+ },
+ {
+  "term": "no",
+  "meaning": "hayır [ünl.]",
+  "meaning2": "aleyhte oy [i.]",
+  "meaning3": "red [i.]"
+ },
+ {
+  "term": "no one",
+  "meaning": "hiç kimse [zm.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "nobody",
+  "meaning": "hiç kimse [zm.]",
+  "meaning2": "önemsiz biri [i.]",
+  "meaning3": "bir hiç [i.]"
+ },
+ {
+  "term": "north",
+  "meaning": "kuzey [i.]",
+  "meaning2": "şimal [i.]",
+  "meaning3": "kuzeye bakan [s.]"
+ },
+ {
+  "term": "nose",
+  "meaning": "burun [i.]",
+  "meaning2": "koku almak [f.]",
+  "meaning3": "yavaş ilerlemek [f.]"
+ },
+ {
+  "term": "not",
+  "meaning": "gayri [s.]",
+  "meaning2": "yoksa [zf.]",
+  "meaning3": "asla [zf.]"
+ },
+ {
+  "term": "note",
+  "meaning": "not etmek [f.]",
+  "meaning2": "senet [i.]",
+  "meaning3": "nota [i.]"
+ },
+ {
+  "term": "nothing",
+  "meaning": "hiç [i.]",
+  "meaning2": "hiçbir şey [i.]",
+  "meaning3": "önemsiz (şey) [i.]"
+ },
+ {
+  "term": "November",
+  "meaning": "kasım [i.]",
+  "meaning2": "teşrin-i sani",
+  "meaning3": "null"
+ },
+ {
+  "term": "now",
+  "meaning": "şimdi [zf.]",
+  "meaning2": "halen [zf.]",
+  "meaning3": "derhal [zf.]"
+ },
+ {
+  "term": "number",
+  "meaning": "numaralamak [f.]",
+  "meaning2": "saymak [f.]",
+  "meaning3": "sayı [i.]"
+ },
+ {
+  "term": "nurse",
+  "meaning": "hemşirelik yapmak [f.]",
+  "meaning2": "meme vermek [f.]",
+  "meaning3": "bakıcılık yapmak [f.]"
+ },
+ {
+  "term": "object",
+  "meaning": "itiraz etmek [f.]",
+  "meaning2": "razı olmamak [f.]",
+  "meaning3": "karşı çıkmak [f.]"
+ },
+ {
+  "term": "o'clock",
+  "meaning": "saat [zf.]",
+  "meaning2": "saate göre [zf.]",
+  "meaning3": "saat (tam saatlerle kullanılır) [zf.]"
+ },
+ {
+  "term": "October",
+  "meaning": "ekim [i.]",
+  "meaning2": "teşrin-i evvel",
+  "meaning3": "null"
+ },
+ {
+  "term": "of",
+  "meaning": "karşı [ed.]",
+  "meaning2": "olan [ed.]",
+  "meaning3": "hakkında [ed.]"
+ },
+ {
+  "term": "off",
+  "meaning": "kapalı [s.]",
+  "meaning2": "dışında [zf.]",
+  "meaning3": "kalkmak [f.]"
+ },
+ {
+  "term": "office",
+  "meaning": "makam [i.]",
+  "meaning2": "ofis [i.]",
+  "meaning3": "büro [i.]"
+ },
+ {
+  "term": "often",
+  "meaning": "sık sık [zf.]",
+  "meaning2": "çoğu kez [zf.]",
+  "meaning3": "sık [zf.]"
+ },
+ {
+  "term": "oh",
+  "meaning": "ey [ünl.]",
+  "meaning2": "ha [ünl.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "OK",
+  "meaning": "onaylamak [f.]",
+  "meaning2": "okeylemek [f.]",
+  "meaning3": "kabul etmek [f.]"
+ },
+ {
+  "term": "old",
+  "meaning": "eskimiş [s.]",
+  "meaning2": "yaşlı [s.]",
+  "meaning3": "eski [s.]"
+ },
+ {
+  "term": "on",
+  "meaning": "üstünde [ed.]",
+  "meaning2": "üzerinde [ed.]",
+  "meaning3": "yanmak [f.]"
+ },
+ {
+  "term": "once",
+  "meaning": "bir kere [zf.]",
+  "meaning2": "bir kez [zf.]",
+  "meaning3": "birkez [zf.]"
+ },
+ {
+  "term": "one",
+  "meaning": "bir [i.]",
+  "meaning2": "tek [s.]",
+  "meaning3": "biri [zm.]"
+ },
+ {
+  "term": "onion",
+  "meaning": "soğan [i.]",
+  "meaning2": "soğancık",
+  "meaning3": "kuru soğan"
+ },
+ {
+  "term": "online",
+  "meaning": "bağlantılı [s.]",
+  "meaning2": "online olarak [zf.]",
+  "meaning3": "çevrim içi"
+ },
+ {
+  "term": "only",
+  "meaning": "tek [s.]",
+  "meaning2": "sırf [zf.]",
+  "meaning3": "yalnızca [zf.]"
+ },
+ {
+  "term": "open",
+  "meaning": "açılmak [f.]",
+  "meaning2": "açmak [f.]",
+  "meaning3": "açık [s.]"
+ },
+ {
+  "term": "opinion",
+  "meaning": "kanaat [i.]",
+  "meaning2": "kanı [i.]",
+  "meaning3": "düşünce [i.]"
+ },
+ {
+  "term": "opposite",
+  "meaning": "zıt [i.]",
+  "meaning2": "aksi [s.]",
+  "meaning3": "karşıt [s.]"
+ },
+ {
+  "term": "or",
+  "meaning": "ya da [bağ.]",
+  "meaning2": "veya [bağ.]",
+  "meaning3": "altın sarısı [i.]"
+ },
+ {
+  "term": "orange",
+  "meaning": "portakal [i.]",
+  "meaning2": "portakal rengi [i.]",
+  "meaning3": "portakalrengi [i.]"
+ },
+ {
+  "term": "order",
+  "meaning": "sipariş vermek [f.]",
+  "meaning2": "emretmek [f.]",
+  "meaning3": "buyurmak [f.]"
+ },
+ {
+  "term": "other",
+  "meaning": "öbür [s.]",
+  "meaning2": "öteki [s.]",
+  "meaning3": "başka [s.]"
+ },
+ {
+  "term": "our",
+  "meaning": "bizim [zm.]",
+  "meaning2": "bizim [zm.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "out",
+  "meaning": "çıkış [i.]",
+  "meaning2": "dışarıda [zf.]",
+  "meaning3": "dışarı [zf.]"
+ },
+ {
+  "term": "outside",
+  "meaning": "dıştan [zf.]",
+  "meaning2": "dışarı [zf.]",
+  "meaning3": "dışarısı [zf.]"
+ },
+ {
+  "term": "over",
+  "meaning": "bitmiş [s.]",
+  "meaning2": "üzerine [ed.]",
+  "meaning3": "üstüne [ed.]"
+ },
+ {
+  "term": "own",
+  "meaning": "sahip olmak [f.]",
+  "meaning2": "kendi [zm.]",
+  "meaning3": "itiraf etmek [f.]"
+ },
+ {
+  "term": "page",
+  "meaning": "sayfa [i.]",
+  "meaning2": "otelde birini komiyle çağırttırmak [f.]",
+  "meaning3": "bir yazının sayfalarını numaralamak [f.]"
+ },
+ {
+  "term": "paint",
+  "meaning": "boyamak [f.]",
+  "meaning2": "boya [i.]",
+  "meaning3": "portresini yapmak [f.]"
+ },
+ {
+  "term": "painting",
+  "meaning": "tablo [i.]",
+  "meaning2": "resim [i.]",
+  "meaning3": "ressamlık [i.]"
+ },
+ {
+  "term": "pair",
+  "meaning": "çift [i.]",
+  "meaning2": "eşleştirmek [f.]",
+  "meaning3": "eşlemek [f.]"
+ },
+ {
+  "term": "paper",
+  "meaning": "kağıt [i.]",
+  "meaning2": "duvar kağıdı kaplamak [f.]",
+  "meaning3": "örtbas etmek [f.]"
+ },
+ {
+  "term": "paragraph",
+  "meaning": "fıkra [i.]",
+  "meaning2": "paragraf [i.]",
+  "meaning3": "makale [i.]"
+ },
+ {
+  "term": "parent",
+  "meaning": "ebeveynlik etmek [f.]",
+  "meaning2": "ata [i.]",
+  "meaning3": "soy [i.]"
+ },
+ {
+  "term": "park",
+  "meaning": "park etmek [f.]",
+  "meaning2": "park [i.]",
+  "meaning3": "park yapmak [f.]"
+ },
+ {
+  "term": "part",
+  "meaning": "parça [i.]",
+  "meaning2": "kısım [i.]",
+  "meaning3": "taraf [i.]"
+ },
+ {
+  "term": "partner",
+  "meaning": "eş [i.]",
+  "meaning2": "ortak [i.]",
+  "meaning3": "ortak etmek [f.]"
+ },
+ {
+  "term": "party",
+  "meaning": "taraf [i.]",
+  "meaning2": "parti [i.]",
+  "meaning3": "(parti yaparak) kutlamak [f.]"
+ },
+ {
+  "term": "passport",
+  "meaning": "geçiş belgesi [i.]",
+  "meaning2": "taşıyıcısının kendisininkinden başka ülkelere seyahat etmesine imkan",
+  "meaning3": "pasaport [i.]"
+ },
+ {
+  "term": "past",
+  "meaning": "geçmiş [s.]",
+  "meaning2": "geçmiş zaman [i.]",
+  "meaning3": "bir kimsenin geçmişi [i.]"
+ },
+ {
+  "term": "pay",
+  "meaning": "ödemek [f.]",
+  "meaning2": "ödeme [i.]",
+  "meaning3": "ücret [i.]"
+ },
+ {
+  "term": "pen",
+  "meaning": "kalem [i.]",
+  "meaning2": "hapsetmek [f.]",
+  "meaning3": "kaleme almak [f.]"
+ },
+ {
+  "term": "pencil",
+  "meaning": "kalem [i.]",
+  "meaning2": "kurşunkalem [i.]",
+  "meaning3": "kurşunkalemle çizmek [f.]"
+ },
+ {
+  "term": "people",
+  "meaning": "insanlar [i.]",
+  "meaning2": "ulus [i.]",
+  "meaning3": "halk [i.]"
+ },
+ {
+  "term": "pepper",
+  "meaning": "biber [i.]",
+  "meaning2": "üzerine biber ekmek [f.]",
+  "meaning3": "pul biber koymak [f.]"
+ },
+ {
+  "term": "perfect",
+  "meaning": "kusursuz [s.]",
+  "meaning2": "mükemmel [s.]",
+  "meaning3": "mükemmelleştirmek [f.]"
+ },
+ {
+  "term": "period",
+  "meaning": "devir [i.]",
+  "meaning2": "dönem [i.]",
+  "meaning3": "çağ [i.]"
+ },
+ {
+  "term": "person",
+  "meaning": "kişi [i.]",
+  "meaning2": "şahıs [i.]",
+  "meaning3": "kimse [i.]"
+ },
+ {
+  "term": "personal",
+  "meaning": "kişisel [s.]",
+  "meaning2": "özel [s.]",
+  "meaning3": "şahsi [s.]"
+ },
+ {
+  "term": "phone",
+  "meaning": "telefon etmek [f.]",
+  "meaning2": "telefon açmak [f.]",
+  "meaning3": "telefonlamak [f.]"
+ },
+ {
+  "term": "photo",
+  "meaning": "foto [i.]",
+  "meaning2": "fotoğraflamak [f.]",
+  "meaning3": "resim vermek [f.]"
+ },
+ {
+  "term": "photograph",
+  "meaning": "fotoğraflamak [f.]",
+  "meaning2": "fotoğrafını çekmek [f.]",
+  "meaning3": "resim vermek [f.]"
+ },
+ {
+  "term": "phrase",
+  "meaning": "ifade etmek [f.]",
+  "meaning2": "uygun sözcük ve cümlelerle ifade etmek [f.]",
+  "meaning3": "cümle veya sözcüklerle anlatmak [f.]"
+ },
+ {
+  "term": "piano",
+  "meaning": "piyano çalgı [i.]",
+  "meaning2": "piyano [i.]",
+  "meaning3": "hafif [s.]"
+ },
+ {
+  "term": "picture",
+  "meaning": "resim [i.]",
+  "meaning2": "yansıtmak [f.]",
+  "meaning3": "resmetmek [f.]"
+ },
+ {
+  "term": "piece",
+  "meaning": "tane [i.]",
+  "meaning2": "parça [i.]",
+  "meaning3": "yamamak [f.]"
+ },
+ {
+  "term": "pig",
+  "meaning": "domuz [i.]",
+  "meaning2": "pislik içinde yaşamak [f.]",
+  "meaning3": "yavrulamak (domuz) [f.]"
+ },
+ {
+  "term": "pink",
+  "meaning": "pembe [i.]",
+  "meaning2": "delmek (süngü ile) [f.]",
+  "meaning3": "süngü ile delmek [f.]"
+ },
+ {
+  "term": "place",
+  "meaning": "koymak [f.]",
+  "meaning2": "oturtmak [f.]",
+  "meaning3": "yerleştirmek [f.]"
+ },
+ {
+  "term": "plan",
+  "meaning": "planlamak [f.]",
+  "meaning2": "tasarlamak [f.]",
+  "meaning3": "plan [i.]"
+ },
+ {
+  "term": "plane",
+  "meaning": "düzlemek [f.]",
+  "meaning2": "düz (yüzey) [i.]",
+  "meaning3": "düzlem [i.]"
+ },
+ {
+  "term": "plant",
+  "meaning": "dikmek [f.]",
+  "meaning2": "ekmek [f.]",
+  "meaning3": "tesis [i.]"
+ },
+ {
+  "term": "play",
+  "meaning": "oynamak [f.]",
+  "meaning2": "çalmak [f.]",
+  "meaning3": "piyes [i.]"
+ },
+ {
+  "term": "player",
+  "meaning": "oyuncu [i.]",
+  "meaning2": "çalgıcı [i.]",
+  "meaning3": "sporcu [i.]"
+ },
+ {
+  "term": "please",
+  "meaning": "memnun etmek [f.]",
+  "meaning2": "lütfen [ünl.]",
+  "meaning3": "gönlünü hoş etmek [f.]"
+ },
+ {
+  "term": "point",
+  "meaning": "nokta [i.]",
+  "meaning2": "puan [i.]",
+  "meaning3": "uç [i.]"
+ },
+ {
+  "term": "police",
+  "meaning": "polis [i.]",
+  "meaning2": "inzibat altına almak [f.]",
+  "meaning3": "güvenliği sağlamak [f.]"
+ },
+ {
+  "term": "policeman",
+  "meaning": "polis [i.]",
+  "meaning2": "zabıta memuru [i.]",
+  "meaning3": "polis (memuru) [i.]"
+ },
+ {
+  "term": "pool",
+  "meaning": "havuz [i.]",
+  "meaning2": "toplamak [f.]",
+  "meaning3": "karı paylaşmak [f.]"
+ },
+ {
+  "term": "poor",
+  "meaning": "kötü [s.]",
+  "meaning2": "fakir [s.]",
+  "meaning3": "zavallı [s.]"
+ },
+ {
+  "term": "popular",
+  "meaning": "popüler [s.]",
+  "meaning2": "halkın kesesine elverişli [i.]",
+  "meaning3": "halka hitap eden [s.]"
+ },
+ {
+  "term": "positive",
+  "meaning": "pozitif [s.]",
+  "meaning2": "artı [s.]",
+  "meaning3": "olumlu [s.]"
+ },
+ {
+  "term": "possible",
+  "meaning": "olabilir [s.]",
+  "meaning2": "olanaklı [s.]",
+  "meaning3": "muhtemel [s.]"
+ },
+ {
+  "term": "post",
+  "meaning": "postalamak [f.]",
+  "meaning2": "makam [i.]",
+  "meaning3": "direk [i.]"
+ },
+ {
+  "term": "potato",
+  "meaning": "patates [i.]",
+  "meaning2": "baş [i.]",
+  "meaning3": "kafa [i.]"
+ },
+ {
+  "term": "pound",
+  "meaning": "yumruklamak [f.]",
+  "meaning2": "çakmak [f.]",
+  "meaning3": "dalgaya çarpmak (gemi) [f.]"
+ },
+ {
+  "term": "practice",
+  "meaning": "uygulamak [f.]",
+  "meaning2": "alıştırma yapmak [f.]",
+  "meaning3": "yapmak [f.]"
+ },
+ {
+  "term": "practise",
+  "meaning": "pratik yapmak [f.]",
+  "meaning2": "alıştırma yapmak [f.]",
+  "meaning3": "etmek [f.]"
+ },
+ {
+  "term": "prefer",
+  "meaning": "tercih etmek [f.]",
+  "meaning2": "yeğlemek [f.]",
+  "meaning3": "yeğ tutmak [f.]"
+ },
+ {
+  "term": "prepare",
+  "meaning": "hazırlamak [f.]",
+  "meaning2": "düzmek [f.]",
+  "meaning3": "pişirmek [f.]"
+ },
+ {
+  "term": "present",
+  "meaning": "sunmak [f.]",
+  "meaning2": "takdim etmek [f.]",
+  "meaning3": "şimdiki zaman [i.]"
+ },
+ {
+  "term": "pretty",
+  "meaning": "şirin [s.]",
+  "meaning2": "tatlı [s.]",
+  "meaning3": "güzel [s.]"
+ },
+ {
+  "term": "price",
+  "meaning": "bedel [i.]",
+  "meaning2": "fiyat [i.]",
+  "meaning3": "ücret [i.]"
+ },
+ {
+  "term": "probably",
+  "meaning": "galiba [zf.]",
+  "meaning2": "muhtemelen [zf.]",
+  "meaning3": "muhtemel olarak [zf.]"
+ },
+ {
+  "term": "problem",
+  "meaning": "problem [i.]",
+  "meaning2": "mesele [i.]",
+  "meaning3": "sorun [i.]"
+ },
+ {
+  "term": "product",
+  "meaning": "ürün [i.]",
+  "meaning2": "mahsul [i.]",
+  "meaning3": "meyve [i.]"
+ },
+ {
+  "term": "programme",
+  "meaning": "program [i.]",
+  "meaning2": "programlamak [f.]",
+  "meaning3": "planlamak [f.]"
+ },
+ {
+  "term": "project",
+  "meaning": "proje [i.]",
+  "meaning2": "iz düşürmek [f.]",
+  "meaning3": "planını çizmek [f.]"
+ },
+ {
+  "term": "purple",
+  "meaning": "mor [i.]",
+  "meaning2": "mora boyamak [f.]",
+  "meaning3": "erguvan rengi [i.]"
+ },
+ {
+  "term": "put",
+  "meaning": "koymak [f.]",
+  "meaning2": "put - put [f.]",
+  "meaning3": "hamletmek [f.]"
+ },
+ {
+  "term": "quarter",
+  "meaning": "çeyrek [i.]",
+  "meaning2": "yerleştirmek (bir kimseyi bir yere\/birinin yanına) [f.]",
+  "meaning3": "yerleştirmek [f.]"
+ },
+ {
+  "term": "question",
+  "meaning": "soru [i.]",
+  "meaning2": "sorular sormak [f.]",
+  "meaning3": "sorgulamak [f.]"
+ },
+ {
+  "term": "quick",
+  "meaning": "süratli [s.]",
+  "meaning2": "hızlı [s.]",
+  "meaning3": "çabuk [zf.]"
+ },
+ {
+  "term": "quickly",
+  "meaning": "hızla [zf.]",
+  "meaning2": "aceleyle [zf.]",
+  "meaning3": "süratle [zf.]"
+ },
+ {
+  "term": "quiet",
+  "meaning": "sessizlik [i.]",
+  "meaning2": "sakin [s.]",
+  "meaning3": "sessiz [s.]"
+ },
+ {
+  "term": "quite",
+  "meaning": "epeyce [zf.]",
+  "meaning2": "pek [zf.]",
+  "meaning3": "epey [zf.]"
+ },
+ {
+  "term": "radio",
+  "meaning": "radyo [i.]",
+  "meaning2": "telsiz [i.]",
+  "meaning3": "telsizle haber vermek [f.]"
+ },
+ {
+  "term": "rain",
+  "meaning": "yağmur yağmak [f.]",
+  "meaning2": "yağmur [i.]",
+  "meaning3": "yağmur gibi yağdırmak [f.]"
+ },
+ {
+  "term": "read",
+  "meaning": "okumak [f.]",
+  "meaning2": "read (sounds like \"red\") - read (sounds like \"red\") [f.]",
+  "meaning3": "çözmek [f.]"
+ },
+ {
+  "term": "reader",
+  "meaning": "okur [i.]",
+  "meaning2": "okuyucu [i.]",
+  "meaning3": "eleştirmen [i.]"
+ },
+ {
+  "term": "reading",
+  "meaning": "okuma [s.]",
+  "meaning2": "mana [i.]",
+  "meaning3": "yorum [i.]"
+ },
+ {
+  "term": "ready",
+  "meaning": "hazır [s.]",
+  "meaning2": "hazırlamak [f.]",
+  "meaning3": "peşin para [i.]"
+ },
+ {
+  "term": "real",
+  "meaning": "hakiki [s.]",
+  "meaning2": "gerçek [s.]",
+  "meaning3": "taşınmaz [s.]"
+ },
+ {
+  "term": "really",
+  "meaning": "hakikaten [zf.]",
+  "meaning2": "gerçekten [zf.]",
+  "meaning3": "cidden [zf.]"
+ },
+ {
+  "term": "reason",
+  "meaning": "sebep [i.]",
+  "meaning2": "akıl [i.]",
+  "meaning3": "gerekçe [i.]"
+ },
+ {
+  "term": "red",
+  "meaning": "al [s.]",
+  "meaning2": "kızıl [s.]",
+  "meaning3": "kırmızı [s.]"
+ },
+ {
+  "term": "relax",
+  "meaning": "rahatlamak [f.]",
+  "meaning2": "rahatlatmak [f.]",
+  "meaning3": "dinlenmek [f.]"
+ },
+ {
+  "term": "remember",
+  "meaning": "hatırlamak [f.]",
+  "meaning2": "anımsamak [f.]",
+  "meaning3": "anmak [f.]"
+ },
+ {
+  "term": "repeat",
+  "meaning": "yinelemek [f.]",
+  "meaning2": "tekrarlamak [f.]",
+  "meaning3": "tekerrür etmek [f.]"
+ },
+ {
+  "term": "report",
+  "meaning": "haber vermek [f.]",
+  "meaning2": "rapor etmek [f.]",
+  "meaning3": "ihbar etmek [f.]"
+ },
+ {
+  "term": "restaurant",
+  "meaning": "restoran [i.]",
+  "meaning2": "lokanta [i.]",
+  "meaning3": "doyumevi [i.]"
+ },
+ {
+  "term": "result",
+  "meaning": "netice [i.]",
+  "meaning2": "sonuç [i.]",
+  "meaning3": "sonucu olmak [f.]"
+ },
+ {
+  "term": "return",
+  "meaning": "geri dönmek [f.]",
+  "meaning2": "dönmek [f.]",
+  "meaning3": "iade etmek [f.]"
+ },
+ {
+  "term": "rice",
+  "meaning": "pirinç [i.]",
+  "meaning2": "çeltik [i.]",
+  "meaning3": "pilav [i.]"
+ },
+ {
+  "term": "rich",
+  "meaning": "zengin [s.]",
+  "meaning2": "varsıl [s.]",
+  "meaning3": "bol bol [s.]"
+ },
+ {
+  "term": "ride",
+  "meaning": "binmek [f.]",
+  "meaning2": "gezinti [i.]",
+  "meaning3": "rode - ridden [f.]"
+ },
+ {
+  "term": "right",
+  "meaning": "sağ [i.]",
+  "meaning2": "hak [i.]",
+  "meaning3": "haklı [s.]"
+ },
+ {
+  "term": "river",
+  "meaning": "nehir [i.]",
+  "meaning2": "nehir [i.]",
+  "meaning3": "akış [i.]"
+ },
+ {
+  "term": "road",
+  "meaning": "yol [i.]",
+  "meaning2": "uyulan ilke [i.]",
+  "meaning3": "bir amaca ulaşmak için başvurulması gereken yöntem [i.]"
+ },
+ {
+  "term": "room",
+  "meaning": "oda [i.]",
+  "meaning2": "oturmak [f.]",
+  "meaning3": "kalmak [f.]"
+ },
+ {
+  "term": "routine",
+  "meaning": "rutin [s.]",
+  "meaning2": "adet [i.]",
+  "meaning3": "hergünkü işler [i.]"
+ },
+ {
+  "term": "rule",
+  "meaning": "hüküm sürmek [f.]",
+  "meaning2": "hükmetmek [f.]",
+  "meaning3": "kural [i.]"
+ },
+ {
+  "term": "run",
+  "meaning": "çalıştırmak [f.]",
+  "meaning2": "işletmek [f.]",
+  "meaning3": "koşmak [f.]"
+ },
+ {
+  "term": "sad",
+  "meaning": "hüzünlü [s.]",
+  "meaning2": "mahzun [s.]",
+  "meaning3": "üzücü [s.]"
+ },
+ {
+  "term": "salad",
+  "meaning": "salata [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "salt",
+  "meaning": "tuz [i.]",
+  "meaning2": "biriktirmek [f.]",
+  "meaning3": "tuzlayarak saklamak [f.]"
+ },
+ {
+  "term": "same",
+  "meaning": "aynı [s.]",
+  "meaning2": "eşit [s.]",
+  "meaning3": "farksız [s.]"
+ },
+ {
+  "term": "sandwich",
+  "meaning": "sandviç [i.]",
+  "meaning2": "sıkıştırmak [f.]",
+  "meaning3": "arasına sıkıştırmak [f.]"
+ },
+ {
+  "term": "Saturday",
+  "meaning": "cumartesi [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "say",
+  "meaning": "söylemek [f.]",
+  "meaning2": "demek [f.]",
+  "meaning3": "said - said [f.]"
+ },
+ {
+  "term": "school",
+  "meaning": "mektep [i.]",
+  "meaning2": "okul [i.]",
+  "meaning3": "yetiştirmek [f.]"
+ },
+ {
+  "term": "science",
+  "meaning": "ilim [i.]",
+  "meaning2": "bilim [i.]",
+  "meaning3": "beceri [i.]"
+ },
+ {
+  "term": "scientist",
+  "meaning": "bilgin [i.]",
+  "meaning2": "bilim insanı [i.]",
+  "meaning3": "bilim adamı [i.]"
+ },
+ {
+  "term": "sea",
+  "meaning": "deniz [i.]",
+  "meaning2": "okyanus [i.]",
+  "meaning3": "dalga [i.]"
+ },
+ {
+  "term": "second",
+  "meaning": "saniye [i.]",
+  "meaning2": "ikinci [s.]",
+  "meaning3": "destek vermek [f.]"
+ },
+ {
+  "term": "section",
+  "meaning": "kesit [i.]",
+  "meaning2": "bölüm [i.]",
+  "meaning3": "kısım [i.]"
+ },
+ {
+  "term": "see",
+  "meaning": "görmek [f.]",
+  "meaning2": "bakmak [f.]",
+  "meaning3": "saw - seen [f.]"
+ },
+ {
+  "term": "sell",
+  "meaning": "satılmak [f.]",
+  "meaning2": "satmak [f.]",
+  "meaning3": "sold - sold [f.]"
+ },
+ {
+  "term": "send",
+  "meaning": "yollamak [f.]",
+  "meaning2": "göndermek [f.]",
+  "meaning3": "sent - sent [f.]"
+ },
+ {
+  "term": "sentence",
+  "meaning": "cümle [i.]",
+  "meaning2": "mahkum etmek [f.]",
+  "meaning3": "hüküm giydirmek [f.]"
+ },
+ {
+  "term": "September",
+  "meaning": "eylül [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "seven",
+  "meaning": "yedi [i.]",
+  "meaning2": "7 [i.]",
+  "meaning3": "yedi rakamı [i.]"
+ },
+ {
+  "term": "seventeen",
+  "meaning": "XVII [i.]",
+  "meaning2": "on yedi sayısı [i.]",
+  "meaning3": "on yedi [i.]"
+ },
+ {
+  "term": "seventy",
+  "meaning": "yetmiş [i.]",
+  "meaning2": "LXX [i.]",
+  "meaning3": "yetmiş sayısı [i.]"
+ },
+ {
+  "term": "share",
+  "meaning": "paylaşmak [f.]",
+  "meaning2": "hisse [i.]",
+  "meaning3": "pay [i.]"
+ },
+ {
+  "term": "she",
+  "meaning": "dişi hayvan [i.]",
+  "meaning2": "dişi [i.]",
+  "meaning3": "kadın [i.]"
+ },
+ {
+  "term": "sheep",
+  "meaning": "koyun [i.]",
+  "meaning2": "koyun gibi tip [i.]",
+  "meaning3": "ezik kimse [i.]"
+ },
+ {
+  "term": "shirt",
+  "meaning": "gömlek [i.]",
+  "meaning2": "mintan [i.]",
+  "meaning3": "gömlek [i.]"
+ },
+ {
+  "term": "shoe",
+  "meaning": "ayakkabı [i.]",
+  "meaning2": "pabuç [i.]",
+  "meaning3": "shoed\/shod - shoed\/shod [f.]"
+ },
+ {
+  "term": "shop",
+  "meaning": "mağaza [i.]",
+  "meaning2": "dükkan [i.]",
+  "meaning3": "ele vermek [f.]"
+ },
+ {
+  "term": "shopping",
+  "meaning": "alışveriş [i.]",
+  "meaning2": "çarşı pazar dolaşma [i.]",
+  "meaning3": "çarşıya çıkma [i.]"
+ },
+ {
+  "term": "short",
+  "meaning": "az [s.]",
+  "meaning2": "alçak [s.]",
+  "meaning3": "kısa [s.]"
+ },
+ {
+  "term": "should",
+  "meaning": "gerekmek [f.]",
+  "meaning2": "-malı [f.]",
+  "meaning3": "-meli [f.]"
+ },
+ {
+  "term": "show",
+  "meaning": "göstermek [f.]",
+  "meaning2": "gösteri [i.]",
+  "meaning3": "showed - shown\/showed [f.]"
+ },
+ {
+  "term": "shower",
+  "meaning": "sağanak [i.]",
+  "meaning2": "duş [i.]",
+  "meaning3": "duş almak [f.]"
+ },
+ {
+  "term": "sick",
+  "meaning": "hasta [s.]",
+  "meaning2": "yakalatmak [f.]",
+  "meaning3": "kusmak [f.]"
+ },
+ {
+  "term": "similar",
+  "meaning": "benzer [s.]",
+  "meaning2": "eş [s.]",
+  "meaning3": "benzeş [s.]"
+ },
+ {
+  "term": "sing",
+  "meaning": "söylemek [f.]",
+  "meaning2": "ötmek [f.]",
+  "meaning3": "şarkı söylemek [f.]"
+ },
+ {
+  "term": "singer",
+  "meaning": "şarkıcı [i.]",
+  "meaning2": "hanende [i.]",
+  "meaning3": "şair [i.]"
+ },
+ {
+  "term": "sister",
+  "meaning": "abla [i.]",
+  "meaning2": "kardeş [i.]",
+  "meaning3": "kız kardeş [i.]"
+ },
+ {
+  "term": "sit",
+  "meaning": "oturmak [f.]",
+  "meaning2": "sat - sat [f.]",
+  "meaning3": "tünemek [f.]"
+ },
+ {
+  "term": "situation",
+  "meaning": "hal [i.]",
+  "meaning2": "durum [i.]",
+  "meaning3": "ekmek kapısı [i.]"
+ },
+ {
+  "term": "six",
+  "meaning": "şeş [i.]",
+  "meaning2": "altı rakamı [i.]",
+  "meaning3": "altı [i.]"
+ },
+ {
+  "term": "sixteen",
+  "meaning": "onaltı [i.]",
+  "meaning2": "XVI [i.]",
+  "meaning3": "on altı sayısı [i.]"
+ },
+ {
+  "term": "sixty",
+  "meaning": "altmış [i.]",
+  "meaning2": "LX [i.]",
+  "meaning3": "altmış sayısı (60, LX) [i.]"
+ },
+ {
+  "term": "skill",
+  "meaning": "maharet [i.]",
+  "meaning2": "beceri [i.]",
+  "meaning3": "hüner [i.]"
+ },
+ {
+  "term": "skirt",
+  "meaning": "etek [i.]",
+  "meaning2": "kenarından geçmek [f.]",
+  "meaning3": "uzak durmak [f.]"
+ },
+ {
+  "term": "sleep",
+  "meaning": "uyumak [f.]",
+  "meaning2": "uyku [i.]",
+  "meaning3": "slept - slept [f.]"
+ },
+ {
+  "term": "slow",
+  "meaning": "yavaşlatmak [f.]",
+  "meaning2": "yavaş [s.]",
+  "meaning3": "ağır [s.]"
+ },
+ {
+  "term": "small",
+  "meaning": "az [s.]",
+  "meaning2": "küçük [s.]",
+  "meaning3": "ufak [s.]"
+ },
+ {
+  "term": "snake",
+  "meaning": "yılan [i.]",
+  "meaning2": "yılan gibi gitmek [f.]",
+  "meaning3": "yılan gibi kıvrılmak [f.]"
+ },
+ {
+  "term": "snow",
+  "meaning": "kar [i.]",
+  "meaning2": "yağmak [f.]",
+  "meaning3": "karla kaplamak [f.]"
+ },
+ {
+  "term": "so",
+  "meaning": "bu yüzden [zf.]",
+  "meaning2": "öyle [zf.]",
+  "meaning3": "böyle [zf.]"
+ },
+ {
+  "term": "some",
+  "meaning": "biraz [s.]",
+  "meaning2": "bazı [s.]",
+  "meaning3": "birkaç [s.]"
+ },
+ {
+  "term": "somebody",
+  "meaning": "biri [zm.]",
+  "meaning2": "birisi [zm.]",
+  "meaning3": "şahsiyet [zm.]"
+ },
+ {
+  "term": "someone",
+  "meaning": "birisi [zm.]",
+  "meaning2": "kimse [zm.]",
+  "meaning3": "bir kimse [zm.]"
+ },
+ {
+  "term": "something",
+  "meaning": "bir şey [i.]",
+  "meaning2": "falan",
+  "meaning3": "null"
+ },
+ {
+  "term": "sometimes",
+  "meaning": "bazen [zf.]",
+  "meaning2": "ara sıra [zf.]",
+  "meaning3": "ara sıra [zf.]"
+ },
+ {
+  "term": "son",
+  "meaning": "oğul [i.]",
+  "meaning2": "evlat [i.]",
+  "meaning3": "mahdum [i.]"
+ },
+ {
+  "term": "song",
+  "meaning": "şarkı [i.]",
+  "meaning2": "şakıma [i.]",
+  "meaning3": "güfte [i.]"
+ },
+ {
+  "term": "soon",
+  "meaning": "birazdan [zf.]",
+  "meaning2": "kısa süre içinde [zf.]",
+  "meaning3": "az sonra [s.]"
+ },
+ {
+  "term": "sorry",
+  "meaning": "üzgün [s.]",
+  "meaning2": "esef etmek [f.]",
+  "meaning3": "eseflenmek [f.]"
+ },
+ {
+  "term": "sound",
+  "meaning": "ses [i.]",
+  "meaning2": "söylemek [f.]",
+  "meaning3": "derine dalmak (balina) [f.]"
+ },
+ {
+  "term": "soup",
+  "meaning": "çorba [i.]",
+  "meaning2": "nitrogliserin [i.]",
+  "meaning3": "yoğun sis [i.]"
+ },
+ {
+  "term": "south",
+  "meaning": "güney [i.]",
+  "meaning2": "cenup [i.]",
+  "meaning3": "lodos [i.]"
+ },
+ {
+  "term": "space",
+  "meaning": "aralık [i.]",
+  "meaning2": "açıklık [i.]",
+  "meaning3": "mekan [i.]"
+ },
+ {
+  "term": "speak",
+  "meaning": "konuşmak [f.]",
+  "meaning2": "spoke - spoken [f.]",
+  "meaning3": "ses çıkarmak [f.]"
+ },
+ {
+  "term": "special",
+  "meaning": "özel [s.]",
+  "meaning2": "yemek (lokantaya has) [i.]",
+  "meaning3": "özel sayı [i.]"
+ },
+ {
+  "term": "spell",
+  "meaning": "hecelemek [f.]",
+  "meaning2": "büyü [i.]",
+  "meaning3": "spelled\/spelt - spelled\/spelt [f.]"
+ },
+ {
+  "term": "spelling",
+  "meaning": "yazım [s.]",
+  "meaning2": "yazılış [i.]",
+  "meaning3": "imla [i.]"
+ },
+ {
+  "term": "spend",
+  "meaning": "geçirmek (geceyi vb) [f.]",
+  "meaning2": "harcamak [f.]",
+  "meaning3": "spent - spent [f.]"
+ },
+ {
+  "term": "sport",
+  "meaning": "spor [i.]",
+  "meaning2": "şaka söylemek [f.]",
+  "meaning3": "oynamak [f.]"
+ },
+ {
+  "term": "spring",
+  "meaning": "memba [i.]",
+  "meaning2": "ilkbahar [i.]",
+  "meaning3": "bahar [i.]"
+ },
+ {
+  "term": "stand",
+  "meaning": "(teklif) geçerli olmak [f.]",
+  "meaning2": "katlanmak [f.]",
+  "meaning3": "ayakta durmak [f.]"
+ },
+ {
+  "term": "star",
+  "meaning": "yıldız [i.]",
+  "meaning2": "yıldızlarla süslemek [f.]",
+  "meaning3": "başrolde oynatmak [f.]"
+ },
+ {
+  "term": "start",
+  "meaning": "başlamak [f.]",
+  "meaning2": "başlatmak [f.]",
+  "meaning3": "başlangıç [i.]"
+ },
+ {
+  "term": "statement",
+  "meaning": "ifade [i.]",
+  "meaning2": "söz [i.]",
+  "meaning3": "beyan [i.]"
+ },
+ {
+  "term": "station",
+  "meaning": "terminal [i.]",
+  "meaning2": "istasyon [i.]",
+  "meaning3": "görevlendirmek [f.]"
+ },
+ {
+  "term": "stay",
+  "meaning": "kalmak [f.]",
+  "meaning2": "kalma süresi [i.]",
+  "meaning3": "kalma [i.]"
+ },
+ {
+  "term": "still",
+  "meaning": "durgun [s.]",
+  "meaning2": "hareketsiz [s.]",
+  "meaning3": "hala [zf.]"
+ },
+ {
+  "term": "stop",
+  "meaning": "durmak [f.]",
+  "meaning2": "durdurmak [f.]",
+  "meaning3": "dinmek [f.]"
+ },
+ {
+  "term": "story",
+  "meaning": "hikaye [i.]",
+  "meaning2": "anlatı [i.]",
+  "meaning3": "tarih [i.]"
+ },
+ {
+  "term": "street",
+  "meaning": "cadde [i.]",
+  "meaning2": "sokak [i.]",
+  "meaning3": "mahalle [i.]"
+ },
+ {
+  "term": "strong",
+  "meaning": "güçlü [s.]",
+  "meaning2": "kuvvetli [s.]",
+  "meaning3": "domuz gibi [i.]"
+ },
+ {
+  "term": "student",
+  "meaning": "öğrenci [i.]",
+  "meaning2": "talebe [i.]",
+  "meaning3": "mektepli [i.]"
+ },
+ {
+  "term": "study",
+  "meaning": "incelemek [f.]",
+  "meaning2": "çalışmak [f.]",
+  "meaning3": "çalışma [i.]"
+ },
+ {
+  "term": "style",
+  "meaning": "biçim [i.]",
+  "meaning2": "tarz [i.]",
+  "meaning3": "biçem [i.]"
+ },
+ {
+  "term": "subject",
+  "meaning": "ders [i.]",
+  "meaning2": "özne [i.]",
+  "meaning3": "konu [i.]"
+ },
+ {
+  "term": "success",
+  "meaning": "muvaffakiyet [i.]",
+  "meaning2": "başarı [i.]",
+  "meaning3": "başarılmış iş [i.]"
+ },
+ {
+  "term": "sugar",
+  "meaning": "şeker [i.]",
+  "meaning2": "kompliman yapmak [f.]",
+  "meaning3": "şeker katmak [f.]"
+ },
+ {
+  "term": "summer",
+  "meaning": "yaz [i.]",
+  "meaning2": "yazı geçirmek [f.]",
+  "meaning3": "hayatın baharı [i.]"
+ },
+ {
+  "term": "sun",
+  "meaning": "güneş [i.]",
+  "meaning2": "güneşte bırakmak [f.]",
+  "meaning3": "güneşlenmek [f.]"
+ },
+ {
+  "term": "Sunday",
+  "meaning": "pazar [i.]",
+  "meaning2": "pazar günü [i.]",
+  "meaning3": "bayramlık [s.]"
+ },
+ {
+  "term": "supermarket",
+  "meaning": "süpermarket [i.]",
+  "meaning2": "market [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "sure",
+  "meaning": "emin [s.]",
+  "meaning2": "elbette [zf.]",
+  "meaning3": "soruşturmak [f.]"
+ },
+ {
+  "term": "sweater",
+  "meaning": "süveter [i.]",
+  "meaning2": "hırka [i.]",
+  "meaning3": "sömüren işveren [i.]"
+ },
+ {
+  "term": "swim",
+  "meaning": "yüzmek [f.]",
+  "meaning2": "yüzme [i.]",
+  "meaning3": "swam - swum [f.]"
+ },
+ {
+  "term": "swimming",
+  "meaning": "yüzme [i.]",
+  "meaning2": "yüzücülük [i.]",
+  "meaning3": "yüzme sporu [i.]"
+ },
+ {
+  "term": "table",
+  "meaning": "masa [i.]",
+  "meaning2": "tablo [i.]",
+  "meaning3": "sofra [i.]"
+ },
+ {
+  "term": "take",
+  "meaning": "almak [f.]",
+  "meaning2": "(fotoğraf) çekmek [f.]",
+  "meaning3": "götürmek [f.]"
+ },
+ {
+  "term": "talk",
+  "meaning": "konuşmak [f.]",
+  "meaning2": "sohbet [i.]",
+  "meaning3": "konuşma [i.]"
+ },
+ {
+  "term": "tall",
+  "meaning": "uzun [s.]",
+  "meaning2": "yüksek [s.]",
+  "meaning3": "uzun boylu [s.]"
+ },
+ {
+  "term": "taxi",
+  "meaning": "taksi [i.]",
+  "meaning2": "taksiyle gitmek [f.]",
+  "meaning3": "birini taksiyle götürmek [f.]"
+ },
+ {
+  "term": "tea",
+  "meaning": "çay [i.]",
+  "meaning2": "çay [i.]",
+  "meaning3": "çeşitli bitkilerin demlenmesinden elde edilen içeceklerin tümü [i.]"
+ },
+ {
+  "term": "teach",
+  "meaning": "ders vermek [f.]",
+  "meaning2": "öğretmek [f.]",
+  "meaning3": "taught - taught [f.]"
+ },
+ {
+  "term": "teacher",
+  "meaning": "öğretmen [i.]",
+  "meaning2": "hoca [i.]",
+  "meaning3": "öğretmen [i.]"
+ },
+ {
+  "term": "team",
+  "meaning": "takım [i.]",
+  "meaning2": "ekip [i.]",
+  "meaning3": "takım halinde yapmak [f.]"
+ },
+ {
+  "term": "teenager",
+  "meaning": "on üç ile on dokuz yaşlar arasındaki kimse [i.]",
+  "meaning2": "delikanlı [i.]",
+  "meaning3": "yeniyetme [i.]"
+ },
+ {
+  "term": "telephone",
+  "meaning": "telefon [i.]",
+  "meaning2": "telefon etmek [f.]",
+  "meaning3": "telefon açmak [f.]"
+ },
+ {
+  "term": "television",
+  "meaning": "televizyon [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "tell",
+  "meaning": "haber vermek [f.]",
+  "meaning2": "söylemek [f.]",
+  "meaning3": "anlatmak [f.]"
+ },
+ {
+  "term": "ten",
+  "meaning": "on [i.]",
+  "meaning2": "onluk [i.]",
+  "meaning3": "onlu [i.]"
+ },
+ {
+  "term": "tennis",
+  "meaning": "tenis [i.]",
+  "meaning2": "alantopu [i.]",
+  "meaning3": "tenis"
+ },
+ {
+  "term": "terrible",
+  "meaning": "berbat [s.]",
+  "meaning2": "korkunç [s.]",
+  "meaning3": "müthiş [s.]"
+ },
+ {
+  "term": "test",
+  "meaning": "sınamak [f.]",
+  "meaning2": "deneme [i.]",
+  "meaning3": "test [i.]"
+ },
+ {
+  "term": "text",
+  "meaning": "metin [i.]",
+  "meaning2": "mesaj atmak (cepten) [f.]",
+  "meaning3": "parça [i.]"
+ },
+ {
+  "term": "than",
+  "meaning": "-den [ed.]",
+  "meaning2": "hariç [ed.]",
+  "meaning3": "-mektense [ed.]"
+ },
+ {
+  "term": "thank",
+  "meaning": "teşekkür etmek [f.]",
+  "meaning2": "teşekkür [i.]",
+  "meaning3": "teşekkür etmek [f.]"
+ },
+ {
+  "term": "thanks",
+  "meaning": "teşekkür [i.]",
+  "meaning2": "teşekkürler [ünl.]",
+  "meaning3": "sağ ol [ünl.]"
+ },
+ {
+  "term": "that",
+  "meaning": "şu [zm.]",
+  "meaning2": "o [zm.]",
+  "meaning3": "o kadar [zf.]"
+ },
+ {
+  "term": "the",
+  "meaning": "belirli durumlarda isimden önce kullanılır [i.]",
+  "meaning2": "belli bir objeyi\/kişiyi\/yeri nitelemek için kullanılır [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "theatre",
+  "meaning": "tiyatro [i.]",
+  "meaning2": "amfi [i.]",
+  "meaning3": "alan [i.]"
+ },
+ {
+  "term": "their",
+  "meaning": "onların [zm.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "them",
+  "meaning": "onlara [zm.]",
+  "meaning2": "onları [zm.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "then",
+  "meaning": "o zamanlar [i.]",
+  "meaning2": "o zamanki [s.]",
+  "meaning3": "o zamanın [s.]"
+ },
+ {
+  "term": "there",
+  "meaning": "oraya [zf.]",
+  "meaning2": "orada [zf.]",
+  "meaning3": "ora [zf.]"
+ },
+ {
+  "term": "they",
+  "meaning": "onlar [zm.]",
+  "meaning2": "kendileri [zm.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "thing",
+  "meaning": "şey [i.]",
+  "meaning2": "nesne [i.]",
+  "meaning3": "olay [i.]"
+ },
+ {
+  "term": "think",
+  "meaning": "sanmak [f.]",
+  "meaning2": "düşünmek [f.]",
+  "meaning3": "thought - thought [f.]"
+ },
+ {
+  "term": "third",
+  "meaning": "üçte bir [i.]",
+  "meaning2": "üçüncü [s.]",
+  "meaning3": "üçüncü olarak [zf.]"
+ },
+ {
+  "term": "thirsty",
+  "meaning": "susuz [s.]",
+  "meaning2": "susamış [s.]",
+  "meaning3": "kurak [s.]"
+ },
+ {
+  "term": "thirteen",
+  "meaning": "on üç sayısı (13, XIII) [i.]",
+  "meaning2": "onüç [i.]",
+  "meaning3": "on üç [i.]"
+ },
+ {
+  "term": "thirty",
+  "meaning": "otuz sayısı (30, XXX) [i.]",
+  "meaning2": "otuz [i.]",
+  "meaning3": "30 [i.]"
+ },
+ {
+  "term": "this",
+  "meaning": "bu [zm.]",
+  "meaning2": "böylesine [zf.]",
+  "meaning3": "bu kadar [zf.]"
+ },
+ {
+  "term": "thousand",
+  "meaning": "bin [i.]",
+  "meaning2": "bin sayısı (1000, M) [i.]",
+  "meaning3": "binlik [s.]"
+ },
+ {
+  "term": "three",
+  "meaning": "iskambilde üçlü [i.]",
+  "meaning2": "üç rakamı (3, III) [i.]",
+  "meaning3": "se [i.]"
+ },
+ {
+  "term": "through",
+  "meaning": "başından sonuna kadar [ed.]",
+  "meaning2": "yoluyla [ed.]",
+  "meaning3": "üzerinden [ed.]"
+ },
+ {
+  "term": "Thursday",
+  "meaning": "perşembe [i.]",
+  "meaning2": "perşembe",
+  "meaning3": "null"
+ },
+ {
+  "term": "ticket",
+  "meaning": "bilet [i.]",
+  "meaning2": "etiket koymak [f.]",
+  "meaning3": "etiketlemek [f.]"
+ },
+ {
+  "term": "time",
+  "meaning": "kez [i.]",
+  "meaning2": "kere [i.]",
+  "meaning3": "müddet [i.]"
+ },
+ {
+  "term": "tired",
+  "meaning": "argın [s.]",
+  "meaning2": "yorgun [s.]",
+  "meaning3": "yorgun düşmüş [s.]"
+ },
+ {
+  "term": "title",
+  "meaning": "unvan [i.]",
+  "meaning2": "başlık [i.]",
+  "meaning3": "isimlendirmek [f.]"
+ },
+ {
+  "term": "to",
+  "meaning": "karşı [ed.]",
+  "meaning2": "-mek\/-mak (mastar) [f.]",
+  "meaning3": "kadar [zf.]"
+ },
+ {
+  "term": "today",
+  "meaning": "bugün [zf.]",
+  "meaning2": "şimdi [zf.]",
+  "meaning3": "bu günlerde [zf.]"
+ },
+ {
+  "term": "together",
+  "meaning": "birlikte [zf.]",
+  "meaning2": "beraber [zf.]",
+  "meaning3": "kuyruk (kimse) [s.]"
+ },
+ {
+  "term": "toilet",
+  "meaning": "hela [i.]",
+  "meaning2": "tuvalet [i.]",
+  "meaning3": "makyaj [i.]"
+ },
+ {
+  "term": "tomato",
+  "meaning": "domates [i.]",
+  "meaning2": "domates",
+  "meaning3": "null"
+ },
+ {
+  "term": "tomorrow",
+  "meaning": "yarın [zf.]",
+  "meaning2": "yarın [i.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "tonight",
+  "meaning": "akşama [zf.]",
+  "meaning2": "bu akşam [zf.]",
+  "meaning3": "bu gece [zf.]"
+ },
+ {
+  "term": "too",
+  "meaning": "gereğinden çok [s.]",
+  "meaning2": "çok [s.]",
+  "meaning3": "aşırı [s.]"
+ },
+ {
+  "term": "tooth",
+  "meaning": "diş [i.]",
+  "meaning2": "dişle kaplamak [f.]",
+  "meaning3": "dişlemek [f.]"
+ },
+ {
+  "term": "topic",
+  "meaning": "konu [i.]",
+  "meaning2": "başlık [i.]",
+  "meaning3": "bahis [i.]"
+ },
+ {
+  "term": "tourist",
+  "meaning": "turist [i.]",
+  "meaning2": "gezgin [i.]",
+  "meaning3": "seyyah [i.]"
+ },
+ {
+  "term": "town",
+  "meaning": "şehir [i.]",
+  "meaning2": "kasaba [i.]",
+  "meaning3": "şehir merkezi [i.]"
+ },
+ {
+  "term": "traffic",
+  "meaning": "gidiş geliş [i.]",
+  "meaning2": "trafik [i.]",
+  "meaning3": "iş yapmak [f.]"
+ },
+ {
+  "term": "train",
+  "meaning": "eğitim vermek [f.]",
+  "meaning2": "eğitmek [f.]",
+  "meaning3": "tren [i.]"
+ },
+ {
+  "term": "travel",
+  "meaning": "gezmek [f.]",
+  "meaning2": "seyahat etmek [f.]",
+  "meaning3": "yolculuk etmek [f.]"
+ },
+ {
+  "term": "tree",
+  "meaning": "ağaç [i.]",
+  "meaning2": "ağaca çıkarmak [f.]",
+  "meaning3": "çarmıh [i.]"
+ },
+ {
+  "term": "trip",
+  "meaning": "seyahat [i.]",
+  "meaning2": "yolculuk [i.]",
+  "meaning3": "gezi [i.]"
+ },
+ {
+  "term": "trousers",
+  "meaning": "pantolon [i.]",
+  "meaning2": "pantolon [i.]",
+  "meaning3": "pantolon"
+ },
+ {
+  "term": "TRUE",
+  "meaning": "hakiki [s.]",
+  "meaning2": "gerçek [s.]",
+  "meaning3": "doğru [s.]"
+ },
+ {
+  "term": "try",
+  "meaning": "denemek [f.]",
+  "meaning2": "deneme [i.]",
+  "meaning3": "yoklamak [f.]"
+ },
+ {
+  "term": "T-shirt",
+  "meaning": "tişört [i.]",
+  "meaning2": "tişört",
+  "meaning3": "yarım kollu fanila"
+ },
+ {
+  "term": "Tuesday",
+  "meaning": "salı [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "turn",
+  "meaning": "dönmek [f.]",
+  "meaning2": "döndürmek [f.]",
+  "meaning3": "çevirmek [f.]"
+ },
+ {
+  "term": "TV",
+  "meaning": "televizyon [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "twelve",
+  "meaning": "oniki [i.]",
+  "meaning2": "on iki sayısı (12, XII) [i.]",
+  "meaning3": "on iki [i.]"
+ },
+ {
+  "term": "twenty",
+  "meaning": "yirmi [i.]",
+  "meaning2": "yirmi sayısı (20, XX) [i.]",
+  "meaning3": "20 [i.]"
+ },
+ {
+  "term": "twice",
+  "meaning": "iki kez [zf.]",
+  "meaning2": "iki sefer [zf.]",
+  "meaning3": "iki kere [zf.]"
+ },
+ {
+  "term": "two",
+  "meaning": "iki [i.]",
+  "meaning2": "iskambilde ikili [i.]",
+  "meaning3": "iki rakamı [i.]"
+ },
+ {
+  "term": "type",
+  "meaning": "yazmak [f.]",
+  "meaning2": "tür [i.]",
+  "meaning3": "tip [i.]"
+ },
+ {
+  "term": "umbrella",
+  "meaning": "şemsiye [i.]",
+  "meaning2": "şemsiyelik [i.]",
+  "meaning3": "koruyucu [i.]"
+ },
+ {
+  "term": "uncle",
+  "meaning": "dayı [i.]",
+  "meaning2": "amca [i.]",
+  "meaning3": "enişte [i.]"
+ },
+ {
+  "term": "under",
+  "meaning": "altında [ed.]",
+  "meaning2": "alt [s.]",
+  "meaning3": "az [s.]"
+ },
+ {
+  "term": "understand",
+  "meaning": "anlayış göstermek [f.]",
+  "meaning2": "anlamak [f.]",
+  "meaning3": "understood - understood [f.]"
+ },
+ {
+  "term": "university",
+  "meaning": "üniversite [i.]",
+  "meaning2": "üniversite [i.]",
+  "meaning3": "bilimyurt [i.]"
+ },
+ {
+  "term": "until",
+  "meaning": "ila [ed.]",
+  "meaning2": "değin [ed.]",
+  "meaning3": "dek [ed.]"
+ },
+ {
+  "term": "up",
+  "meaning": "yukarı [ünl.]",
+  "meaning2": "yükseltmek [f.]",
+  "meaning3": "artırmak [f.]"
+ },
+ {
+  "term": "upstairs",
+  "meaning": "üst kat [i.]",
+  "meaning2": "üst kat [i.]",
+  "meaning3": "yukarı kat [i.]"
+ },
+ {
+  "term": "us",
+  "meaning": "biz [zm.]",
+  "meaning2": "abd [i.]",
+  "meaning3": "bizi [zm.]"
+ },
+ {
+  "term": "use",
+  "meaning": "kullanmak [f.]",
+  "meaning2": "kullanım [i.]",
+  "meaning3": "kullanma [i.]"
+ },
+ {
+  "term": "useful",
+  "meaning": "faydalı [s.]",
+  "meaning2": "yararlı [s.]",
+  "meaning3": "kullanışlı [s.]"
+ },
+ {
+  "term": "usually",
+  "meaning": "genellikle [zf.]",
+  "meaning2": "çoğunlukla [zf.]",
+  "meaning3": "çoğu zaman [zf.]"
+ },
+ {
+  "term": "vacation",
+  "meaning": "tatil [i.]",
+  "meaning2": "tatil yapmak [f.]",
+  "meaning3": "izin [i.]"
+ },
+ {
+  "term": "vegetable",
+  "meaning": "sebze [i.]",
+  "meaning2": "bitkisel [s.]",
+  "meaning3": "göveri [i.]"
+ },
+ {
+  "term": "very",
+  "meaning": "çok [zf.]",
+  "meaning2": "hatta [s.]",
+  "meaning3": "bile [s.]"
+ },
+ {
+  "term": "video",
+  "meaning": "video terminal [i.]",
+  "meaning2": "ekran [i.]",
+  "meaning3": "video filmi [i.]"
+ },
+ {
+  "term": "village",
+  "meaning": "köy [i.]",
+  "meaning2": "köy halkı [i.]",
+  "meaning3": "şehir ve kasabalardan küçük ama kalıcı yerleşim birimi [i.]"
+ },
+ {
+  "term": "visit",
+  "meaning": "ziyaret etmek [f.]",
+  "meaning2": "ziyaret [i.]",
+  "meaning3": "gezmek [f.]"
+ },
+ {
+  "term": "visitor",
+  "meaning": "ziyaretçi [i.]",
+  "meaning2": "ziyarete giden kimse [i.]",
+  "meaning3": "zair [i.]"
+ },
+ {
+  "term": "wait",
+  "meaning": "beklemek [f.]",
+  "meaning2": "bekleyiş [i.]",
+  "meaning3": "bekleme [i.]"
+ },
+ {
+  "term": "waiter",
+  "meaning": "garson [i.]",
+  "meaning2": "erkek garson [i.]",
+  "meaning3": "garson"
+ },
+ {
+  "term": "wake",
+  "meaning": "canlanmak [f.]",
+  "meaning2": "uyanmak [f.]",
+  "meaning3": "woke\/waked - woken\/waked [f.]"
+ },
+ {
+  "term": "walk",
+  "meaning": "yürümek [f.]",
+  "meaning2": "dolaşmak [f.]",
+  "meaning3": "yürüyerek gitmek [f.]"
+ },
+ {
+  "term": "wall",
+  "meaning": "duvar [i.]",
+  "meaning2": "tecrit etmek [f.]",
+  "meaning3": "ayırmak [f.]"
+ },
+ {
+  "term": "want",
+  "meaning": "istemek [f.]",
+  "meaning2": "istek [i.]",
+  "meaning3": "isteklenmek [f.]"
+ },
+ {
+  "term": "warm",
+  "meaning": "ısıtmak [f.]",
+  "meaning2": "ısınmak [f.]",
+  "meaning3": "ılık [s.]"
+ },
+ {
+  "term": "wash",
+  "meaning": "yıkanmak [f.]",
+  "meaning2": "aşındırmak [f.]",
+  "meaning3": "yıkamak [f.]"
+ },
+ {
+  "term": "watch",
+  "meaning": "seyretmek (tv) [f.]",
+  "meaning2": "seyretmek [f.]",
+  "meaning3": "gözlemek [f.]"
+ },
+ {
+  "term": "water",
+  "meaning": "sulamak [f.]",
+  "meaning2": "su [s.]",
+  "meaning3": "ıslatmak [f.]"
+ },
+ {
+  "term": "way",
+  "meaning": "yol [i.]",
+  "meaning2": "taraf [i.]",
+  "meaning3": "tarz [i.]"
+ },
+ {
+  "term": "we",
+  "meaning": "biz [zm.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "wear",
+  "meaning": "giymek [f.]",
+  "meaning2": "takmak [f.]",
+  "meaning3": "aşındırmak [f.]"
+ },
+ {
+  "term": "weather",
+  "meaning": "hava [i.]",
+  "meaning2": "hava durumu [i.]",
+  "meaning3": "yalpalamak [f.]"
+ },
+ {
+  "term": "website",
+  "meaning": "internet sitesi [i.]",
+  "meaning2": "web sitesi",
+  "meaning3": "ağ sitesi"
+ },
+ {
+  "term": "Wednesday",
+  "meaning": "çarşamba [i.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "week",
+  "meaning": "hafta [i.]",
+  "meaning2": "ardışık yedi günlük süre [i.]",
+  "meaning3": "hafta [i.]"
+ },
+ {
+  "term": "weekend",
+  "meaning": "hafta sonu [i.]",
+  "meaning2": "hafta sonunu geçirmek [f.]",
+  "meaning3": "haftasonu [i.]"
+ },
+ {
+  "term": "welcome",
+  "meaning": "hoş geldiniz [ünl.]",
+  "meaning2": "hoş geldin [ünl.]",
+  "meaning3": "hoş karşılamak [f.]"
+ },
+ {
+  "term": "well",
+  "meaning": "fışkırmak [f.]",
+  "meaning2": "kuyu [i.]",
+  "meaning3": "iyi [s.]"
+ },
+ {
+  "term": "west",
+  "meaning": "batı [i.]",
+  "meaning2": "batıdaki [s.]",
+  "meaning3": "batıya doğru [zf.]"
+ },
+ {
+  "term": "what",
+  "meaning": "ne [ünl.]",
+  "meaning2": "neyi [i.]",
+  "meaning3": "hangi [s.]"
+ },
+ {
+  "term": "when",
+  "meaning": "ne zaman [zf.]",
+  "meaning2": "zaman [i.]",
+  "meaning3": "ne vakit [zf.]"
+ },
+ {
+  "term": "where",
+  "meaning": "nereye [zf.]",
+  "meaning2": "nerede [zf.]",
+  "meaning3": "nere [zf.]"
+ },
+ {
+  "term": "which",
+  "meaning": "hangi [s.]",
+  "meaning2": "kaçıncı [s.]",
+  "meaning3": "hangi [s.]"
+ },
+ {
+  "term": "white",
+  "meaning": "beyaz [s.]",
+  "meaning2": "ak [s.]",
+  "meaning3": "solgun [s.]"
+ },
+ {
+  "term": "who",
+  "meaning": "kimi [zm.]",
+  "meaning2": "kim [zm.]",
+  "meaning3": "kime [zm.]"
+ },
+ {
+  "term": "why",
+  "meaning": "neden [zf.]",
+  "meaning2": "niçin [zf.]",
+  "meaning3": "niye [zf.]"
+ },
+ {
+  "term": "wife",
+  "meaning": "kocanın eşi [i.]",
+  "meaning2": "hanım [i.]",
+  "meaning3": "karı [i.]"
+ },
+ {
+  "term": "will",
+  "meaning": "vasiyet [i.]",
+  "meaning2": "irade [i.]",
+  "meaning3": "dilemek [f.]"
+ },
+ {
+  "term": "win",
+  "meaning": "kazanmak [f.]",
+  "meaning2": "galip gelmek [f.]",
+  "meaning3": "zafer [i.]"
+ },
+ {
+  "term": "window",
+  "meaning": "pencere [i.]",
+  "meaning2": "camekan [i.]",
+  "meaning3": "vitrin [i.]"
+ },
+ {
+  "term": "wine",
+  "meaning": "şarap sunmak [f.]",
+  "meaning2": "şarap [i.]",
+  "meaning3": "şarap rengi [i.]"
+ },
+ {
+  "term": "winter",
+  "meaning": "kış [i.]",
+  "meaning2": "kışlık [s.]",
+  "meaning3": "kışlamak [f.]"
+ },
+ {
+  "term": "with",
+  "meaning": "ile [ed.]",
+  "meaning2": "-lı [zf.]",
+  "meaning3": "beraberinde [zf.]"
+ },
+ {
+  "term": "without",
+  "meaning": "dış [i.]",
+  "meaning2": "dıştan [zf.]",
+  "meaning3": "dışarıda [zf.]"
+ },
+ {
+  "term": "woman",
+  "meaning": "kadın [i.]",
+  "meaning2": "hanım [i.]",
+  "meaning3": "kadın [i.]"
+ },
+ {
+  "term": "wonderful",
+  "meaning": "müthiş [s.]",
+  "meaning2": "harikulade [s.]",
+  "meaning3": "harika [s.]"
+ },
+ {
+  "term": "word",
+  "meaning": "laf [i.]",
+  "meaning2": "söz [i.]",
+  "meaning3": "sözcük [i.]"
+ },
+ {
+  "term": "work",
+  "meaning": "çalışmak [f.]",
+  "meaning2": "işe yaramak [f.]",
+  "meaning3": "iş yapmak [f.]"
+ },
+ {
+  "term": "worker",
+  "meaning": "işçi [i.]",
+  "meaning2": "adam [i.]",
+  "meaning3": "amele [i.]"
+ },
+ {
+  "term": "world",
+  "meaning": "alem [i.]",
+  "meaning2": "dünya [i.]",
+  "meaning3": "evren [i.]"
+ },
+ {
+  "term": "would",
+  "meaning": "istemek [f.]",
+  "meaning2": "-ecekti [f.]",
+  "meaning3": "-çekti [f.]"
+ },
+ {
+  "term": "write",
+  "meaning": "yazmak [f.]",
+  "meaning2": "wrote - written [f.]",
+  "meaning3": "kaydetmek [f.]"
+ },
+ {
+  "term": "writer",
+  "meaning": "yazar [i.]",
+  "meaning2": "müellif [i.]",
+  "meaning3": "muharrir [i.]"
+ },
+ {
+  "term": "writing",
+  "meaning": "yazma [i.]",
+  "meaning2": "yazım [i.]",
+  "meaning3": "yazı [i.]"
+ },
+ {
+  "term": "wrong",
+  "meaning": "yanlış [s.]",
+  "meaning2": "gadretmek [f.]",
+  "meaning3": "haksızlık etmek [f.]"
+ },
+ {
+  "term": "yeah",
+  "meaning": "tamam [ünl.]",
+  "meaning2": "he [ünl.]",
+  "meaning3": "evet [ünl.]"
+ },
+ {
+  "term": "year",
+  "meaning": "yıl [i.]",
+  "meaning2": "sene [i.]",
+  "meaning3": "ihtiyarlık [i.]"
+ },
+ {
+  "term": "yellow",
+  "meaning": "sarı [s.]",
+  "meaning2": "sararmak [f.]",
+  "meaning3": "sarartmak [f.]"
+ },
+ {
+  "term": "yes",
+  "meaning": "evet [i.]",
+  "meaning2": "olumlu cevap [i.]",
+  "meaning3": "olumlu oy [i.]"
+ },
+ {
+  "term": "yesterday",
+  "meaning": "dün [zf.]",
+  "meaning2": "null",
+  "meaning3": "null"
+ },
+ {
+  "term": "you",
+  "meaning": "siz [zm.]",
+  "meaning2": "sen [zm.]",
+  "meaning3": "seni [zm.]"
+ },
+ {
+  "term": "young",
+  "meaning": "genç [i.]",
+  "meaning2": "hayvan yavrusu [i.]",
+  "meaning3": "döl [i.]"
+ },
+ {
+  "term": "your",
+  "meaning": "senin [zm.]",
+  "meaning2": "sizin [zm.]",
+  "meaning3": "null"
+ },
+ {
+  "term": "yourself",
+  "meaning": "kendiniz [zm.]",
+  "meaning2": "kendin [zm.]",
+  "meaning3": "kendini [zm.]"
+ }
+]
